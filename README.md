@@ -132,13 +132,52 @@
 3. 宾语: 分为动词宾语和介词宾语, 属于动作的承受者.
 4. 系动词: 表示状态或状态变化的动词, 没有实际的动作意义.
    如:
-      be 动词 (am, is , are);
-      感官系动词 (look, sound, smell, taste, feel);
-      保持类系动词 (keep, stay, remain);
-      状态变化类系动词 (become, get, turn, go)
-   等.
+      > be 动词 (`am`, `is` , `are`);    
+      感官系动词 (`look`, `sound`, `smell`, `taste`, `feel`);    
+      保持类系动词 (`keep`, `stay`, `remain`);    
+      状态变化类系动词 (`become`, `get`, `turn`, `go`)    
+   等.  
 5. 表语: 紧跟系动词后的成份.
 6. 定语: 修饰名词或代词的成份.
 7. 状语: 修饰形容词 / 副词 / 动词 或句子的成分.
 8. 补语: 分为宾语补足语和主语补足语. 是对宾语和主语的补充说明, 与其有主动或被动的逻辑关系.
+
+## 句型
+名子的基本结构: 主语 + 谓语(名词 + 动词)
+#### 五种句型
+模式|例句|分析
+:--:|:--:|:--:
+主系表|I am a student|I 主语, am 系动词, a student 表语
+主谓|I am studying|I 主语, am studying 谓语
+主谓宾|I study English|I 主语, study 谓语, English 宾语
+主谓间宾直宾|Our teacher taught us English|Our teacher 主语, taught 谓语, us 间宾, English 直宾
+主谓宾宾补|I learn English well|I 主语, Learn 谓语, English 宾语, well 宾补
+
+关键在于谓语动词, 它构成了一个句子的骨架   
+ 
+##### 主语 + 系动词 + 主语补足语(表语)   
+> 系动词(Linking Verg)   
+> 作用: 无具体运作, 仅起连接作用   
+> 后面所接成分: 说明主语特点性质特征    
+> 种类: be 动词(`am`, `is`, `are`), `look`, `sound`, `smell`, `tast`, `feel`, `seem`, `appear`, `become`, `turn`. 
+> 表语: 名词 or 形容词
+
+##### 主语 + 谓语 (+ 状语)
+> 不及物动词(Intransitive Verb) vi.   
+> 特点: 主语自身可完成, 不需要作用对象   
+> 习惯: 带状语(修饰动作的句子成分)
+
+##### 主语 + 谓语 + 宾语
+> 及对动词(Transitive Verb)vt.
+> 作用: 说明主语动作的作用对象.
+> 宾语: 主语动作承受对象
+
+##### 主语 + 谓语 + 间宾 + 直宾
+> 双宾动词(Dative Verb)
+> 特点: 后面成分有人(间接宾语[接受者]), 又有物(直接宾语[承受者])
+
+##### 主语 + 谓语 + 宾语 + 宾语补足语
+> 宾补动词(Factitive Verb)
+
+#### 区分双宾语和复合宾语
 
