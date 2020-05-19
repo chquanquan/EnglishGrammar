@@ -1,23 +1,23 @@
-# English Grammer
+# English Grammar
 > 此文档是我根据 烧风的小站[一篇博客](https://hk-shao.github.io/post/81c4e30a.html) 抄来的, 实事是: 我把整篇文章看完, 还记不住, 就想着顺便用 markdown 手写一份(我也新学了下 `markdown` 的语法), 加深记忆的. 感受得出作者是很用心整理的, 我很感谢他, `侵删`.
 
 ### Contents
-- [句子成分](#句子成分)
-- [句型]
-  - [五种句型]
+- [1.句子成分](#1.句子成分)
+- [2.句型](#2.句型)
+  - [五种句型](#五种句型)
     - [主语+系动词+主语补足语(表语)]
     - [主语+谓语(+状语)]
     - [主语+谓语+宾语]
     - [主语+谓语+间宾+直宾]
     - [主语+谓语+宾语+宾语补足语]
-  - [区分双宾语和复合宾语]
-- [动词的分类]
-  - [实义动词(Notional Verb)]
-  - [助动态(Auxiliary Verb)]
+  - [区分双宾语和复合宾语](#区分双宾语和复合宾语)
+- [3.动词的分类](#3.动词的分类)
+  - [实义动词](#实义动词_Notional_Verb)
+  - [助动态](#助动词_Auxiliary_Verb)
     - [Be类]
     - [Do类]
     - [Have类]
-  - [情态动词(Modal Verb)]
+  - [情态动词](#情态动词_Modal_Verb)
 - [句子的变化]
   - [陈述句否定]
     - [谓语动词含有助动词或情态动词]
@@ -126,7 +126,7 @@
 分析句子 --> 理清句子成分
 分析句子 --> 理清句子关系
 
-## 句子成分
+## 1.句子成分
 1. 主语: 句子所陈述的对象.
 2. 谓语: 主语发出的动作. 一般是有动作意义的动词.
 3. 宾语: 分为动词宾语和介词宾语, 属于动作的承受者.
@@ -142,9 +142,9 @@
 7. 状语: 修饰形容词 / 副词 / 动词 或句子的成分.
 8. 补语: 分为宾语补足语和主语补足语. 是对宾语和主语的补充说明, 与其有主动或被动的逻辑关系.
 
-## 句型
+## 2.句型
 名子的基本结构: 主语 + 谓语(名词 + 动词)
-#### 五种句型
+### 五种句型
 模式|例句|分析
 :--:|:--:|:--:
 主系表|I am a student|I 主语, am 系动词, a student 表语
@@ -155,29 +155,91 @@
 
 关键在于谓语动词, 它构成了一个句子的骨架   
  
-##### 主语 + 系动词 + 主语补足语(表语)   
+#### 主语 + 系动词 + 主语补足语(表语)   
 > 系动词(Linking Verg)   
 > 作用: 无具体运作, 仅起连接作用   
 > 后面所接成分: 说明主语特点性质特征    
 > 种类: be 动词(`am`, `is`, `are`), `look`, `sound`, `smell`, `tast`, `feel`, `seem`, `appear`, `become`, `turn`. 
 > 表语: 名词 or 形容词
 
-##### 主语 + 谓语 (+ 状语)
+#### 主语 + 谓语 (+ 状语)
 > 不及物动词(Intransitive Verb) vi.   
 > 特点: 主语自身可完成, 不需要作用对象   
 > 习惯: 带状语(修饰动作的句子成分)
 
-##### 主语 + 谓语 + 宾语
+#### 主语 + 谓语 + 宾语
 > 及对动词(Transitive Verb)vt.
 > 作用: 说明主语动作的作用对象.
 > 宾语: 主语动作承受对象
 
-##### 主语 + 谓语 + 间宾 + 直宾
+#### 主语 + 谓语 + 间宾 + 直宾
 > 双宾动词(Dative Verb)
 > 特点: 后面成分有人(间接宾语[接受者]), 又有物(直接宾语[承受者])
 
-##### 主语 + 谓语 + 宾语 + 宾语补足语
+#### 主语 + 谓语 + 宾语 + 宾语补足语
 > 宾补动词(Factitive Verb)
 
-#### 区分双宾语和复合宾语
+### 区分双宾语和复合宾语
+在间接宾语后加上 be 动词, 若能成句, 则是补足语
+
+动词种类|句型
+:--:|:--:
+Linking verb(连系动词)|主 + 系 + 表
+Intransitive Verb(不及物动词)|主 + 谓
+Transitive Verb(及物动词)|主 + 谓 + 宾
+Transitive Verb with direct object and indirect object|主 + 谓 +间宾 +直宾
+Transitive Verb with direct object and object complement|主 + 谓 + 宾 +宾补
+
+## 3.动词的分类
+
+### 实义动词_Notional_Verb
+> 词义: 完整    
+> 作用: 能独立充当谓语    
+> 分类: 助动词和情态动词以外的动词
+
+### 助动词_Auxiliary_Verb
+> 词义: 不完整    
+> 作用: 无法独立充当谓语    
+>      必须与实义动词连用, 构成各种时态, 语态, 语气, 否定, 疑问   
+> 分类:    
+     * Be: `am`, `is`, `are`, `was`, `were`, `been`, `being`    
+     * Do: `does`, `did`   
+     * Have: `has`, `had`, `having`
+
+#### Be 类
+> 变化形式: `am`, `is`, `are`, `was`, `were`, `been`, `being`    
+> 功能:    
+> 1. 帮助构成进行时态   
+> I am studying grammar.   
+> He is playing football.
+> 2. 帮助构成被动语态   
+> I was cheated.
+
+#### Do 类
+> 变化形式: `does`, `did`    
+> 功能: 
+> 1. 帮助实义动词构成否定    
+> I do not like English.
+> 2. 帮助实义动词构成疑问   
+>  Do you like English.
+
+#### Have 类
+> 变化形式: `has`, `had`, `having`   
+> 功能: 帮助构成完成时态    
+> I have studied English for 3 years.
+
+be, do, have 可作实义动词又可作助动词
+分类|例句|词义|词性及作用
+:--:|:--:|:--:|:--:
+be|I am a student|"是"|系动词, 作谓语
+-|I am studying grammar|无词义|助动词, 构成进行时
+have|I have two brothers|"有"|实义动词, 作谓语
+-|I have studied English for 3 years|无词义|助动词帮助构成完成时
+do| I often do my homework at home|"做"|实义动词, 作谓语
+-|I do not link English|无词义|助动词, 构成否定
+
+### 情态动词_Modal_Verb
+> 词义: 有词义, 表示说话者对某种行为或状态的看法或态度  
+> 无法独立充当谓语, 必须和实义动词一起构成复合谓语  
+> 常见: `can`, `could`, `may`, `might`, `must`, `shall`, `should`, `will`, `would`, `have to`, `ought to`, `used to`, `need`, `dare`  
 
