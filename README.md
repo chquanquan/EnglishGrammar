@@ -258,7 +258,7 @@ do| I often do my homework at home|"做"|实义动词, 作谓语
 > He like English. -> He does not like English.  
 > There are some dogs. -> There aren't any dogs.  
 
-助动词否定的缩写
+### 助动词否定的缩写
 原型|否定|缩写
 :--:|:--:|:--:
 I am| Am not|无
@@ -273,9 +273,31 @@ I / You / We / They have|Have not|Haven't
 He / She / It has|has not|Hasn'
 had|had not|Hadn't
 
+### 情态动词否定缩写
+原型|否定|缩写
+:--:|:--:|:--:
+Will|Will not|Won't
+Would|Would not|wouldn't
+Shall|Shall not|Shan't
+Should|Should not|shouldn't
+Can|cannot|Can't
+Could|Could not|Couldn't
+May|May not|无
+Might|Might not|Mightn't
+Must|Must not|mustn't
 
-### 助动词否定的缩写
-### 情态动词否定的缩写
+其他变化:   
+> and -> or  
+> already -> yet  
+> both -> either  
+> some -> any  
+
+祈使句:  
+> 祈使句前 + don't, 例: Don't open the door.  
+
+不定式:  
+> 不定式前 + not, 例: She asks the boy not to play in the street.
+
 ### 一般疑问句
 #### 谓语动态含有助动词或情态动词
 #### 谓语动词是实义动词
