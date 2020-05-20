@@ -18,7 +18,7 @@
     - [Do类]
     - [Have类]
   - [情态动词](#情态动词_Modal_Verb)
-- [句子的变化]
+- [句子的变化](#名子的变化)
   - [陈述句否定]
     - [谓语动词含有助动词或情态动词]
     - [谓语动词是实义动词]
@@ -31,7 +31,7 @@
     - [不接名词连用的疑问句]
     - [接名词连用的疑问句]
     - [How用户详解]
-- [时态]
+- [时态](#时态)
   - [一般时态和现在时态]
     - [一般现在时]
     - [一般过去时]
@@ -48,7 +48,7 @@
     - [不可数名词]
     - [不可数名词的度量]
     - [名词所有格]
- - [人称代词]
+ - [人称代词](#人称代词)
    - [主格人称代词]
      - [表示泛指的主格代词]
      - [she(her)的拟人化]
@@ -56,7 +56,7 @@
      - [做宾语时的位置]
    - [物主代词(名词性&形容词性)]
    - [反身代词]
-- [介词]
+- [介词](#介词)
   - [介词短语]
   - [时间介词]
     - [at, in, on]
@@ -73,7 +73,7 @@
     - [with]
     - [in]
     - [through]
-- [动名词]
+- [动名词](#动名词)
   - [做主语]
     - [直接句首做主语: 谓语动词用单数]
     - It is no good doing sth 句型
@@ -89,7 +89,7 @@
   - [动名词的其他结构]
     - [动名词的复合结构]
     - [用法]
-- [动词不定式]
+- [动词不定式](#动词不定式)
   - [做主语]
     - [It + to do sth 句型]
   - [做宾语]
@@ -107,7 +107,7 @@
     - [动词的复合宾语中 to 省去]
     - [一些短语中的 to 省略]
     - [do nothing / anything / everything but do 省略]
-- [被动语态]
+- [被动语态](#被动语态)
   - [构成: be + 过去分词]
   - [不用by情况]
   - [不及物动词没有被动语态]
@@ -243,3 +243,51 @@ do| I often do my homework at home|"做"|实义动词, 作谓语
 > 无法独立充当谓语, 必须和实义动词一起构成复合谓语  
 > 常见: `can`, `could`, `may`, `might`, `must`, `shall`, `should`, `will`, `would`, `have to`, `ought to`, `used to`, `need`, `dare`  
 
+## 名子的变化
+### 陈述句否定
+#### 谓语动态含有助动词或情态动词
+> 变形: 助动词或情态动词后 + not   
+> 例:   
+> He is a teacher. -> He is not a teacher.  
+> I can swim. -> I cannot swim.
+> He will come to the party. -> He will not come to the party.
+#### 谓语动词是实义动词
+> 变形: 借助助动词的 do not 来构成, 第三人称用 does + not + 动词原型, 过去式 did + not  
+> 例:  
+> I like English. -> I do not like English.  
+> He like English. -> He does not like English.  
+> There are some dogs. -> There aren't any dogs.  
+
+助动词否定的缩写
+原型|否定|缩写
+:--:|:--:|:--:
+I am| Am not|无
+We / You / They are|Are not|Aren't
+She / He / It is|Is not|Isn't
+I / He / she / It was|Was not|Wasn't
+We / You / They were| Were not|Weren't
+I / You / We / They do|Do not|Don't
+He / She / It does|Does not|Doesn't
+Did|Did not|Didn't
+I / You / We / They have|Have not|Haven't
+He / She / It has|has not|Hasn'
+had|had not|Hadn't
+
+
+### 助动词否定的缩写
+### 情态动词否定的缩写
+### 一般疑问句
+#### 谓语动态含有助动词或情态动词
+#### 谓语动词是实义动词
+### 特殊疑问句
+#### 不接名词连用的疑问句
+#### 接名词连用的疑问句
+#### How 用法详解
+
+
+## 时态
+## 人称代词
+## 介词
+## 动名词
+## 动词不定式
+## 被动语态
