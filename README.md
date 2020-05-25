@@ -300,9 +300,32 @@ Must|Must not|mustn't
 
 ### 一般疑问句
 #### 谓语动态含有助动词或情态动词
+> 变形: 助动词或情态动词移到句首   
+> 例:  
+> He is a teacher. -> Is he a teacher? Yes, he is. / No, he isn't.
 #### 谓语动词是实义动词
+> 变形: 加 do / does / did 于句首, 实义动词变原型   
+> 例:  
+> He like English. -> Does he link English? Yes, he does / No, he doesn't.  
+> I like English. -> Do you like English? Yes I do / No, I don't.
 ### 特殊疑问句
 #### 不接名词连用的疑问句
+##### 对人提问: who  
+> He can sing In Englih. -> Who can sing in English?  
+> I saw him at the party last night. -> Who did you see at the party last night?
+##### 对事或对物 what
+> I link English. What do you like?  
+> I am studying English grammar. What are you doing?  
+> I am studying English grammer. What are you studying?  
+> I'd like to go swimming tomorrow. What would you like to do tomorrow?  
+##### 对时间提问: when
+> I was born in 1980. When were you born?  
+##### 对地点提问: where
+> He lives in Beijing. Where does he live?
+##### 对方式提问: how
+> He go to school by bus. How does he you to school?
+##### 对原因提问: why
+> I often study at the library because it's quiet. Why do you often study at the library?
 #### 接名词连用的疑问句
 #### How 用法详解
 
