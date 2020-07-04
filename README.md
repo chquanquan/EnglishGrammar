@@ -327,10 +327,141 @@ Must|Must not|mustn't
 ##### 对原因提问: why
 > I often study at the library because it's quiet. Why do you often study at the library?
 #### 接名词连用的疑问句
-#### How 用法详解
+##### Which:
+> Could you lend me your pen?  
+Sure, I have two pens. This pen has black ink. That pen has red ink.   
+Which pen / Whic one / Which do you want?   
+That red one. Thanks.   
+Which 也可不接名词, 这时 which 用作代词.
+
+##### Whose:
+> 必须接名词  
+This is his book. Whose book is this?  
+I borrowed Jack's car last nigh. Whose cae did you borrow last night?
+
+##### How 用法详解
+##### 单独使用: 对动作方式的提问.   
+> How do you go to work?  
+I drive / By car / I take a taxi / I take bus / By bus.
+How did he break hes leg?   
+He fell off the ladder.  
+
+##### 和形容词 or 副词连用
+> How old are you ?   
+How tall is he?  
+How big is you new house?  
+How far is it from you home to school?   
+How well does he speak English?   
+How quickly can you get there?
+
+##### 对频率疑问: how often / how many times?
+> I write to my parents once a month. How often do you write to your parents?  
+I go shopping twice a week. How often do you shopping? / How many times a week do you go shopping?
+
+##### 其他频率短语
+> (Every / once a / Twice a / Three times a ) / (day  / week / month / year)
+
 
 
 ## 时态
+### 一般时态和现在时态
+#### 一般现在时
+The present simple tense is used to express a general truth or fact, or an action that occurs or habitually. Generally, the present simple tense verb conveys a sense of permanence.  
+Truth or fact
+> The sun rises in the ease and sets in the west.  
+The earth moves around the sun.  
+
+An action that occurs regularly or habitually
+> I often spend two hours reading English in the morning.  
+Classes begin at nine in the morning.
+
+1. 事实
+> The world is round.
+2. 经常性, 习惯性动作或状态
+> He doesn't work hard.  
+常连用频率副词(助动词后, 实义动词前)  
+always frequently usually sometimes generally occasionaly often never seldom rarely
+3. 以 there 或 here 开头句子中, 表正在发年在短暂动作   
+> Here comes your wife = Your wife is coming.  
+There goes our bus, we'll have to wait for the next one.
+4. 条件状语(if / unless), 时间状语(when / as soon as / before / after)从句中, 表示将来动作   
+> Please let me know when he comes back.  
+What are you going to do when you leave school?  
+I'll glad if she comes over to visit me.
+
+#### 一般过去时
+The past simple tense is use to express a completed action which took place eat a specified in the past. The specified time is either or implied.  
+A comleted action
+> I saw him in the library yesterday morning.  
+I began to learn English ten years ago.  
+
+A past action that occurred regularly or habitually  
+> I slept for eight hours last night.  
+She lived in our town for three years, but now she is living in Beijing.
+
+1. 过去动作或状态
+> He was late for school this morning.  
+I bought this computer three years ago.
+
+2. 过去一段时间一直持续或反复发生的动作
+> I lived in the country for ten years.  
+He used to do morning excercises.  
+He took a walk after supper when was a alive.
+
+#### 一般将来时
+The future simple tense is used to express an action that will occur at some time in the future.   
+Will or Be Going To can be used to express sort of certainty.  
+> According to the weather report, it will be windy tomorrow. 说话人认为将要发生.   
+According to the weather report, it is going to be windy tomorrow. 根据明显迹象判断  
+
+Be Going To is used to express a definite plan.
+> I have bought a computer and I'm going to learn the computer science.  
+
+Will is used to express a willingness.  
+> The telephone is ringing, I will answer it.
+
+will (说话时做出的决定)  
+be going to (对话前出的决定)
+
+#### 进行时态
+时态构成  
+助动词 + 进行分词  be + doing  
+意义   
+该时刻(具体时间, 另外一个具体活动的背景下), 活动正在进行  
+
+##### 现在进行时
+1. 说话此刻正在进行  
+> What program are you watching?  
+He is not available now. He is talking on another phone.
+
+2. 现阶段正在持续的动作  
+> What are you doing this days?   
+I am learning the usage of verb tenses.
+
+3. 最近的将来已定的安排(计划 安排做)
+> What are you doing on Saturday night?  
+I'm going some shopping with jane. I am taking a makeup test tomorrow.
+
+4. 与 always / forever / continually / constantly 等连用, 表示抱怨 , 厌烦
+> Jack is always borrowing money and forgetting to pay you back.  
+He's continually asking me for money.
+
+##### 进去进行时
+1. 进去特定时刻发生的事情
+> I was discussing my thesis with my director at this time last night.  
+What are you doing at 10 o'clock last night? I was having dinner with my friends.
+
+2. 过去进行时(背景) + 一般过去时(背景下发生的短暂动作或状态)
+> The phone rang while I was having my bath, as usual.  
+I was watching TV when the phone rang.
+
+##### 将来进行时
+1. 将来某一特定时刻活动正在进行
+> I'll be lying on a beach in Santa this time tomorrow.   
+Don't telephone after eight tomorrow. I'll be having a meeting.
+
+
+
 ## 人称代词
 ## 介词
 ## 动名词
