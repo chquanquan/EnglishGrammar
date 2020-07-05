@@ -460,6 +460,102 @@ I was watching TV when the phone rang.
 > I'll be lying on a beach in Santa this time tomorrow.   
 Don't telephone after eight tomorrow. I'll be having a meeting.
 
+### 名词
+#### 名词短语(名词与它前面的修饰语)  
+> These red roses are for you.  
+I have three close friend.  
+I really need a new computer.
+
+1. 功能
+可作: 主语 宾语(介词不能单独使用, 后面所接宾语) 表语
+
+2. 修饰语
+限定词:泛指, 特指, 定量, 不定量(these / three / a / the / my / that), 冠词(a / an / the)   
+形容词: red / close / new /  best / small
+
+3. 位置  
+限定词在形容词前: 限定词 + 形容词 + 名词, 如: three red roses.
+
+#### 名词可数与不可数
+##### 名词分类
+专有名词: Paris, the united states, Bill gates  
+普通名词  
+> 可数名词
+>> 个体名词: student, tree, hospital, house, piano   
+>> 集体名词: team, committee, police, group, family
+
+> 不可数名词
+>> 物质名词: paper, water, cotton, air  
+>> 抽象名词: birth happiness, evolution, technology, hope
+
+简单名词: story, student, teacher.  
+复合名词: girlfriend roommate, mother-in-law
+
+##### 是否可数的相对性
+例如 paper  
+I need some paper to write a letter. (纸 不可数)  
+I have a term paper to write on weekend. (论文 可数)  
+I bought a paper. (报纸 可数)  
+room (空间 不可数; 房间 可数)
+
+##### 可数名词与不可数名词比较
+可数名词: 前面可以 + a / an / 数词(two)   
+不可数名词: 不可 + a / an / 数词(two)
+
+##### 不可数名词
+1. 物质名词不可数  
+beer, blood, coffee, cream, gasoline, honey, juice, milk, oil, tea, water, wine  
+bread, butter, cheese, ice, ice-cream, meat, beef, chicken, fish, chalk, copper, cotton, glass, gold, iron   
+air, fog, oxygen, smoke.
+
+2. 抽象名词  
+advice, anger, beauty, confidence, fun, happiness, health, honesty, information, love, lunch, peace
+
+3. 总称名词不可数  
+furniture, fruit, jewelry, luggage, equipment, poetry, machinery 
+
+##### 不可数名词的度量
+1. piece  
+advice, bread, baggage, chalk, equipment, furniture, information jewelry, luggage, music, new.
+
+2. bottle / cup / drop / glass  
+beer, blood, coffee, milk, tea, water, wine
+
+3. otherwise  
+a lot of bread / a tube of toothpaste / a pack of cigarette / a slice of meat
+
+##### 名词所有格
+1. 单数名词后 + 's
+
+2. 复数名词后 + s' or 复数型名词后 + 's
+> Her friends' money   
+the childrens' Day
+
+3. 复合名词后 + 's
+> My father-in-law's company  
+Everyone else's viewpoints  
+Henry the Eighth's Wives   
+The President of America's cecretary
+
+4. and 连接的并列名词: 共有情况: 最后 + 's; 各自所有情况: 每个名词后 + 's
+
+5. 重量, 度量, 价值   
+two pounds' weight / a tons' weight / a tons' steel / two dollars's worth of sugar
+
+6. 省略
+> 1. 前方已出现, 避免重复
+>> This bike is mine, not Michael's
+> 2. 表示店铺或教堂(要加 the)
+>> at the baker's / at the butcher's / at the chemist's / at the doctor's
+> 3. 人名后面的所有格省去名词表示住宅
+>> go to my sister's / I called at my uncle's yesterday.
+
+7. of 所有格的其他关系
+> 1. 主谓关系
+>> the visitor's departure / the teacher's request / the growth of agriculture
+> 2. 动宾关系
+>> the children's education / the boy's punishment / the discussion of the plan
+
 
 
 ## 人称代词
