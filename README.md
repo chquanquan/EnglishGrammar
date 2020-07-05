@@ -556,9 +556,48 @@ two pounds' weight / a tons' weight / a tons' steel / two dollars's worth of sug
 > 2. 动宾关系
 >> the children's education / the boy's punishment / the discussion of the plan
 
-
-
 ## 人称代词
+### 主格人称代词
+作用: 主语或从句中做主语  
+> She is my daughter.  
+It was he who helped me when I was in trouble.  
+顺序: you, he, I; we, you, they(I 总是放在最后)
+
+表示泛指的主格代词  
+one: 任何人, 包括说话人
+~~one is knocking at the door.~~ (错误, 句子中 One 逻辑上不会包含说话人, 不符合 one 的规则)  
+Somebody is knocking at the door.  
+One 后面使用的代词, 美国一般用 he, him, himself, his.  
+We / You / They 可以表示泛指: 人们.  
+They say = People say or It is say  
+They say it is going to be a cold winter.  
+
+she(her)的拟人化  
+表示 country, motherland, moon, earth, ship  
+The ship lost most of her rigging in the storm.  
+
+### 宾格人称代词
+作用: 做宾语, 也可做表语  
+I like her.  
+Whh is it? It's me.  
+注意: 做表语时, 后面跟定语从句是, 需要用主格人称代词.  
+It was `he` in whom we had the greatest faith. (he 在从句中做介词宾语)  
+
+主格和宾格人称代码可做同位语  
+`We teachers` should be patient with students.  
+Our teachers are all nice to `us students`.  
+
+做宾语时的位置  
+直接宾语前: He bought me a pen as birthday gift.   
+直接宾语后: He boutht a pen for me as a birthday gift; I've lent much money to him.  
+若直接宾语是人称代词, 只能置后, 但是不适用于不定代词:  
+I will give it to you.  
+I'll show you something; I didn't give Rex any.  
+在短语动词中间: hand them in; throw it away; pick it up.  
+若是名词, 则中间和后边都可以: hand your papers in = hand in your papers.
+
+### 物主代词(名词性&形容词性)
+
 ## 介词
 ## 动名词
 ## 动词不定式
