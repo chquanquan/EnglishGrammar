@@ -565,38 +565,71 @@ It was he who helped me when I was in trouble.
 
 表示泛指的主格代词  
 one: 任何人, 包括说话人
-~~one is knocking at the door.~~ (错误, 句子中 One 逻辑上不会包含说话人, 不符合 one 的规则)  
+> ~~one is knocking at the door.~~ (错误, 句子中 One 逻辑上不会包含说话人, 不符合 one 的规则)  
 Somebody is knocking at the door.  
-One 后面使用的代词, 美国一般用 he, him, himself, his.  
+One 后面使用的代词, 美国一般用 he, him, himself, his.   
+
 We / You / They 可以表示泛指: 人们.  
-They say = People say or It is say  
+> They say = People say or It is say  
 They say it is going to be a cold winter.  
 
 she(her)的拟人化  
 表示 country, motherland, moon, earth, ship  
-The ship lost most of her rigging in the storm.  
+> The ship lost most of her rigging in the storm.  
 
 ### 宾格人称代词
 作用: 做宾语, 也可做表语  
-I like her.  
+>I like her.  
 Whh is it? It's me.  
 注意: 做表语时, 后面跟定语从句是, 需要用主格人称代词.  
 It was `he` in whom we had the greatest faith. (he 在从句中做介词宾语)  
 
 主格和宾格人称代码可做同位语  
-`We teachers` should be patient with students.  
+> `We teachers` should be patient with students.  
 Our teachers are all nice to `us students`.  
 
 做宾语时的位置  
 直接宾语前: He bought me a pen as birthday gift.   
 直接宾语后: He boutht a pen for me as a birthday gift; I've lent much money to him.  
+
 若直接宾语是人称代词, 只能置后, 但是不适用于不定代词:  
-I will give it to you.  
+> I will give it to you.  
 I'll show you something; I didn't give Rex any.  
+
 在短语动词中间: hand them in; throw it away; pick it up.  
 若是名词, 则中间和后边都可以: hand your papers in = hand in your papers.
 
 ### 物主代词(名词性&形容词性)
+作用: 人称代词的所有格式, 表所有关系  
+形容词性:
+> 不能单独使用: Your book is over there; His sister is lovely.  
+表强调时 + own: I wish I had my own house.  
+
+名词性:   
+> 单独使用; 避免重复: This is not my book, Mine(= my book) is in my bag.   
+of + 名词性物主代词: a friend fo mine; a teacher of hers = a teacher of her own.
+
+### 反身代词
+必须主语宾语为同一人时, 做宾语: God helps those who help themselves.  
+强调主语:  
+`He himself` went to visit the old lady. (他亲自去看望那个老太太的)  
+不产生歧义下可置后:  
+> He went to visti the old layd himself.  
+He spoke to the boss himself.(有歧义)  
+
+强调宾语:  反身代词在宾语后   
+> He saw Tom himself. (他看到 Tom 本人)  
+I will send this gift to John himself. (给 John 本人, 不是通过转交)  
+
+介词 + 反身代词   
+by oneself: 独自一人地   
+> I went there by myself. (我自己一个人去了那里)   
+I went there myself. (我亲自去了那里)
+
+of oneself: 自动地  
+> The door open `of` itself. (门自动地开了)
+
+
 
 ## 介词
 ## 动名词
