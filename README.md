@@ -630,8 +630,76 @@ of oneself: 自动地
 > The door open `of` itself. (门自动地开了)
 
 
-
 ## 介词
+特点: 不能单独使用, 后面需带宾语(名词, 代词, 数词, 动名词, 动名词短语, 名词从句)  
+搭配: 在介词前的词: 动词(depend on) 名称(pay attention to) 形容词(be kind to)  
+充当: 与其宾语构成介词短语后, 可充当主语, 补足语, 定语, 状语  
+作用: 词与词之间的表示关系   
+种类:   
+简单介词: at, by, for, from, in, near, of, off, on  
+复合介词:     
+> 简单链接   
+inside, into, onto, out of, outside, throughout, upon, within, without   
+
+> 搭配连用   
+as to, from above, from behind, from beneath, from under, until after
+
+### 介词短语
+at the cost of, at the mercy of, at odds with, by means of, by reason of, by virtue of, by way of, in place of, in favor of,in spite of, with an eye to.  
+
+关于: in / with reference to, in / with respect to, in / with regard to
+
+### 时间介词
+at, in , on
+1. at (时间点)
+> a. 特定时间: at nine after ten  
+ 
+> b. 不确定时刻: at night, at dawn, at midnigth, at that time, at the moment, at Christmas  
+
+> c. 年龄段:
+>> at the age of eight / at eight  
+He got married at twenty
+
+2. in (时间段)
+> a. 长时间段  
+in the morning / afternoon / evening  
+in spring / summer / autumn / winter   
+in the past, in the past ten years  
+in the twenty-first century  
+a man in his thirties
+
+> b. 在时间之内 / 后, 表将来时  
+He said he would come back in a month.  
+The train is leaving in a minute  
+
+> c. in + 动名词: 在做...过程中  
+In crossing the river, we caught some fish.  
+In working, we can learn a lot.
+
+> d. 几月: in October
+
+3. on (表示具体日期)
+
+> a. 具体日期和星期
+On monday, On my birthday
+
+> b. 特定某天上午或下午等  
+On the night of December 31, 1999.  
+On the eve of Christmas / New Year.  
+On a hot midnight in July.  
+
+> c. 在第几天
+On his first day to school.  
+On the tenth day I was in Beijing.  
+
+> d. on + 动名词 or 名词 = as soon as: 一...就...  
+On hearing the bad news, she burst into tears.  
+On arriving, I came directly to see you.  
+The fist thing I did on arrival of Beijing was visit him.
+
+
+
+
 ## 动名词
 ## 动词不定式
 ## 被动语态
