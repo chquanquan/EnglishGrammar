@@ -699,6 +699,52 @@ b. by 引导时间状语常与将来完成时 or 过去完成时连用
 有 last / next / this / every 不再加介词    
 > I'll see your next Friday.
 
+**during for**  
+during 在...期间内, 强调这时间内发生了什么 for 表示延续时间的长短  
+> I had lived in the countryside for 8 years before I moved to Beijing.  
+I studied in this university for 4 years. During that time most of my time was spent in learning English.  
+My father was in hospital for six weeks during the summer.  
+
+during 接表示一段时间的名词: stay, visit, travel  
+> During my visit to China.   
+During the travel to the south.  
+During the middle ages   
+
+**for** + 时间段
+> for six years / for two months / for ever / for two hours  
+
+### 方位介词
+**at, in**
+**at**(小地方)
+> at home, at the office, at school, at the bridge, at the crossroads, at the bus-stop, at the doctor, at the hairdresser. 
+
+**in**(大地方)   
+> in the country, in a town, in a village, in the street, in the forest, in the field, in a desert
+
+其他情况(固定搭配)  
+> in a line / in a row / in a queue  
+in a photo / in a picture  
+in a mirror  
+in the sky / in the world  
+in the book / in a newspaper / in a magazine / in a letter  
+in the front / back row (at the front / back)  
+in the front / back of the car   
+at the front / back of the building / cinema / classroom  
+
+谈论建筑  
+**at** 表示事情发生的场合  
+> I met him at the cinama last night.  
+
+**in** 表示建议物本身   
+> I enjoyed the film but it was very cold in the cinema.  
+
+**in** 强调建筑时, **at** 包括建筑物周围及里面  
+> at the restaurant (可以表示餐馆内, 也可以是在餐馆附近的某个地方)  
+in the restaurant (在餐馆内)  
+at the cinema (在电影院, 不一定在里面)  
+in the cinema (在电影院里面)  
+There were a lot of people in the shop, It was very crowed.   
+Go along this road, then turn left at the shop.  
 
 
 
