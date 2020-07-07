@@ -2,121 +2,80 @@
 > 此文档是我根据 烧风的小站[一篇博客](https://hk-shao.github.io/post/81c4e30a.html) 抄来的, 实事是: 我把整篇文章看完, 还记不住, 就想着顺便用 markdown 手写一份(我也新学了下 `markdown` 的语法), 加深记忆的. 感受得出作者是很用心整理的, 我很感谢他, `侵删`.
 
 ### Contents
-- [1.句子成分](#1.句子成分)
-- [2.句型](#2.句型)
-  - [五种句型](#五种句型)
-    - [主语+系动词+主语补足语(表语)]
-    - [主语+谓语(+状语)]
-    - [主语+谓语+宾语]
-    - [主语+谓语+间宾+直宾]
-    - [主语+谓语+宾语+宾语补足语]
-  - [区分双宾语和复合宾语](#区分双宾语和复合宾语)
-- [3.动词的分类](#3.动词的分类)
-  - [实义动词](#实义动词_Notional_Verb)
-  - [助动态](#助动词_Auxiliary_Verb)
-    - [Be类]
-    - [Do类]
-    - [Have类]
-  - [情态动词](#情态动词_Modal_Verb)
-- [句子的变化](#名子的变化)
-  - [陈述句否定]
-    - [谓语动词含有助动词或情态动词]
-    - [谓语动词是实义动词]
-  - [助动词否定的缩写]
-  - [情态动词否定的缩写]
-  - [一般疑问句]
-    - [谓语动词含有助动词或情情态动词]
-    - [谓语动词是实义动词]
-  - [特殊疑问句]
-    - [不接名词连用的疑问句]
-    - [接名词连用的疑问句]
-    - [How用户详解]
-- [时态](#时态)
-  - [一般时态和现在时态]
-    - [一般现在时]
-    - [一般过去时]
-    - [一般将来时]
-    - [进行时态]
-    - [现在进行时态]
-    - [过去进行时态]
-    - [将来进行时(will be doing)]
-  - [名词]
-    - [名词可数与不可数]
-      - [名词分类]
-    - [是否可数的相对性]
-    - [可数名称与不可数名词比较]
-    - [不可数名词]
-    - [不可数名词的度量]
-    - [名词所有格]
- - [人称代词](#人称代词)
-   - [主格人称代词]
-     - [表示泛指的主格代词]
-     - [she(her)的拟人化]
-   - [宾格人称代词]
-     - [做宾语时的位置]
-   - [物主代词(名词性&形容词性)]
-   - [反身代词]
-- [介词](#介词)
-  - [介词短语]
-  - [时间介词]
-    - [at, in, on]
-    - [时间介词短语]
-  - [方位介词]
-    - [at, in]
-    - [谈论建筑]
-  - [on, over, above]
-    - [below, under, beneath]
-  - [手段介词]
-    - [by]
-      - [表示行为方式]
-      - [表示交通工具]
-    - [with]
-    - [in]
-    - [through]
-- [动名词](#动名词)
-  - [做主语]
-    - [直接句首做主语: 谓语动词用单数]
-    - It is no good doing sth 句型
-    - [there be 句型]
-  - [做宾语]
-    - [一些动词后只能用动名词做宾语]
-  - [接名词和不定式有区别的动词]
-    - [remember]
-    - [forget]
-    - [stop]
-    - [go on]
-    - [regret]
-  - [动名词的其他结构]
-    - [动名词的复合结构]
-    - [用法]
-- [动词不定式](#动词不定式)
-  - [做主语]
-    - [It + to do sth 句型]
-  - [做宾语]
-    - [动词 + to do]
-  - [做宾语补足语]
-    - [动词 + sb to do sth]
-  - [做定语]
-    - [名词 + to do sth]
-  - [做独立成分]
-  - [做状语]
-    - [做目的状]
-    - [做结果状]
-  - [形容词后的不定式]
-  - [不带 to 的不定式]
-    - [动词的复合宾语中 to 省去]
-    - [一些短语中的 to 省略]
-    - [do nothing / anything / everything but do 省略]
-- [被动语态](#被动语态)
-  - [构成: be + 过去分词]
-  - [不用by情况]
-  - [不及物动词没有被动语态]
-  - [双宾语可以有两种被动语态(人做主语更常见)]
-  - [静态被动语态]
-  - [get 与被动语态(get 与过去分词连用)]
-    - [可以构成被动语态]
-    - [可以接静态的被动形式, 表示主语的状态]
-    - [have / get sth done]
+- [English Grammar](#english-grammar)
+    - [Contents](#contents)
+  - [## 语法](#h2-id语法-785语法h2)
+  - [1.句子成分](#1句子成分)
+  - [2.句型](#2句型)
+    - [五种句型](#五种句型)
+      - [主语 + 系动词 + 主语补足语(表语)](#主语--系动词--主语补足语表语)
+      - [主语 + 谓语 (+ 状语)](#主语--谓语--状语)
+      - [主语 + 谓语 + 宾语](#主语--谓语--宾语)
+      - [主语 + 谓语 + 间宾 + 直宾](#主语--谓语--间宾--直宾)
+      - [主语 + 谓语 + 宾语 + 宾语补足语](#主语--谓语--宾语--宾语补足语)
+    - [区分双宾语和复合宾语](#区分双宾语和复合宾语)
+  - [3.动词的分类](#3动词的分类)
+    - [实义动词_Notional_Verb](#实义动词_notional_verb)
+    - [助动词_Auxiliary_Verb](#助动词_auxiliary_verb)
+      - [Be 类](#be-类)
+      - [Do 类](#do-类)
+      - [Have 类](#have-类)
+    - [情态动词_Modal_Verb](#情态动词_modal_verb)
+  - [名子的变化](#名子的变化)
+    - [陈述句否定](#陈述句否定)
+      - [谓语动态含有助动词或情态动词](#谓语动态含有助动词或情态动词)
+      - [谓语动词是实义动词](#谓语动词是实义动词)
+    - [助动词否定的缩写](#助动词否定的缩写)
+    - [情态动词否定缩写](#情态动词否定缩写)
+    - [一般疑问句](#一般疑问句)
+      - [谓语动态含有助动词或情态动词](#谓语动态含有助动词或情态动词-1)
+      - [谓语动词是实义动词](#谓语动词是实义动词-1)
+    - [特殊疑问句](#特殊疑问句)
+      - [不接名词连用的疑问句](#不接名词连用的疑问句)
+        - [对人提问: who](#对人提问-who)
+        - [对事或对物 what](#对事或对物-what)
+        - [对时间提问: when](#对时间提问-when)
+        - [对地点提问: where](#对地点提问-where)
+        - [对方式提问: how](#对方式提问-how)
+        - [对原因提问: why](#对原因提问-why)
+      - [接名词连用的疑问句](#接名词连用的疑问句)
+        - [Which:](#which)
+        - [Whose:](#whose)
+        - [How 用法详解](#how-用法详解)
+        - [单独使用: 对动作方式的提问.](#单独使用-对动作方式的提问)
+        - [和形容词 or 副词连用](#和形容词-or-副词连用)
+        - [对频率疑问: how often / how many times?](#对频率疑问-how-often--how-many-times)
+        - [其他频率短语](#其他频率短语)
+  - [时态](#时态)
+    - [一般时态和现在时态](#一般时态和现在时态)
+      - [一般现在时](#一般现在时)
+      - [一般过去时](#一般过去时)
+      - [一般将来时](#一般将来时)
+      - [进行时态](#进行时态)
+        - [现在进行时](#现在进行时)
+        - [进去进行时](#进去进行时)
+        - [将来进行时](#将来进行时)
+    - [名词](#名词)
+      - [名词短语(名词与它前面的修饰语)](#名词短语名词与它前面的修饰语)
+      - [名词可数与不可数](#名词可数与不可数)
+        - [名词分类](#名词分类)
+        - [是否可数的相对性](#是否可数的相对性)
+        - [可数名词与不可数名词比较](#可数名词与不可数名词比较)
+        - [不可数名词](#不可数名词)
+        - [不可数名词的度量](#不可数名词的度量)
+        - [名词所有格](#名词所有格)
+  - [人称代词](#人称代词)
+    - [主格人称代词](#主格人称代词)
+    - [宾格人称代词](#宾格人称代词)
+    - [物主代词(名词性&形容词性)](#物主代词名词性形容词性)
+    - [反身代词](#反身代词)
+  - [介词](#介词)
+    - [介词短语](#介词短语)
+    - [时间介词](#时间介词)
+      - [时间介词短语](#时间介词短语)
+  - [动名词](#动名词)
+  - [动词不定式](#动词不定式)
+  - [被动语态](#被动语态)
     
     
 ## 语法
@@ -650,7 +609,7 @@ at the cost of, at the mercy of, at odds with, by means of, by reason of, by vir
 关于: in / with reference to, in / with respect to, in / with regard to
 
 ### 时间介词
-at, in , on
+**at, in , on**
 1. at (时间点)
 > a. 特定时间: at nine after ten  
  
@@ -696,6 +655,49 @@ On the tenth day I was in Beijing.
 On hearing the bad news, she burst into tears.  
 On arriving, I came directly to see you.  
 The fist thing I did on arrival of Beijing was visit him.
+
+**from**  
+和 to 或 till / until 连用
+> Most people work from nine to five.
+
+**since**  
+和时间点连用, 从那一刻起. 现在完成时, 过去完成时连用
+> He has been here since last Sunday.  
+> I haven't seen him since two years ago.  
+> I haven't seen him for two years.    
+> It's two years since I last saw him.
+
+**for**  
+和时间段连用, 表示动作延续到说话的那一刻. 现在完成时, 过去完成时连用.
+> I have lived here for a year.  
+> I have lived here since this time last year.
+
+**by**  
+a. no later than: 不迟于某个时间, 到了某个时间
+> by the end of next year
+
+b. by 引导时间状语常与将来完成时 or 过去完成时连用
+> By the end of next year I'll have learned 2000 words.  
+> By the end of last year I had learned 2000 words.
+
+#### 时间介词短语
+**at the beginning of** 在...的开头
+> At the beginning of the book there is often a table of contents.  
+> At the beginning of the content.  
+> At the beginning of January.
+
+**in the beginning** at first = in the early stages  
+> In the beginning, I wrote to my family regularly. Later I just gave up.
+
+**at the end of**
+> But at the end of this process, unfortunately, the students are none the wiser.   
+> At the end of a book there maybe an index.   
+> At the end of jaunary.
+
+**in the end** eventually = at last: 最终
+> Jim couldn't decide where to go for his holiday. He didn't go anywhere in the end.   
+有 last / next / this / every 不再加介词    
+> I'll see your next Friday.
 
 
 
