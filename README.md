@@ -4,7 +4,7 @@
 ### Contents
 - [English Grammar](#english-grammar)
     - [Contents](#contents)
-  - [## 语法](#h2-id语法-785语法h2)
+  - [## 语法](#h2-id语法-680语法h2)
   - [1.句子成分](#1句子成分)
   - [2.句型](#2句型)
     - [五种句型](#五种句型)
@@ -73,6 +73,8 @@
     - [介词短语](#介词短语)
     - [时间介词](#时间介词)
       - [时间介词短语](#时间介词短语)
+    - [方位介词](#方位介词)
+    - [手段介词](#手段介词)
   - [动名词](#动名词)
   - [动词不定式](#动词不定式)
   - [被动语态](#被动语态)
@@ -714,7 +716,7 @@ During the middle ages
 > for six years / for two months / for ever / for two hours  
 
 ### 方位介词
-**at, in**
+**at, in**  
 **at**(小地方)
 > at home, at the office, at school, at the bridge, at the crossroads, at the bus-stop, at the doctor, at the hairdresser. 
 
@@ -745,6 +747,55 @@ at the cinema (在电影院, 不一定在里面)
 in the cinema (在电影院里面)  
 There were a lot of people in the shop, It was very crowed.   
 Go along this road, then turn left at the shop.  
+
+**on, over, above**  
+**on** 表示两者接触   
+> Put away the books on the desk.  
+> The dictionary on the table is not mine.  
+> There is some water in the bottle.   
+> There is a label on the bottle.  
+> There is sombebody at the door. Shall I go and see who it is?   
+> There is a notice on the door. It says "Do not disturb".  
+
+**on** 的其他情况  
+> on the left / on the right  
+> ont the first / second floor  
+> on a map  
+> on the page / on page seven (at the top / bottom of the page)  
+> on the menu  
+> on the list
+> on a farm  
+> on the way to school  
+> on the corner of street, in the corner of the room  
+
+**over** 不仅接触, 还有覆盖的含义  
+> Spread the cloth over the table.  
+Mon put a rug over me when I was asleep.  
+
+
+**over** 还可以表示正上方  
+> There is a bridge over the river.  
+There is a lamp over the desk.
+
+**above** 仅表示上下关系, 不接触, 也不是正上方  
+> The sun rose above the horizon.  
+> There is a bridge above the river.  
+> He is **over me** (He is my immediate superior)  
+> He is **above me**  
+
+**below, under, beneath**  
+**under** 在下方可接触, 可不接触   
+> I put the money under the mattess (床垫).  
+> The dog is groveling under the table.   
+
+**below** 表示两个表面之前的间隔距离   
+> They live below us.  
+
+**beneath** 可以替换 **under**, 但是偏向抽象含义  
+> He would think it beneath him to tell a lie.
+> She married beneath her.
+
+### 手段介词  
 
 
 
