@@ -4,7 +4,7 @@
 ### Contents
 - [English Grammar](#english-grammar)
     - [Contents](#contents)
-  - [## 语法](#h2-id语法-680语法h2)
+  - [## 语法](#h2-id语法-764语法h2)
   - [1.句子成分](#1句子成分)
   - [2.句型](#2句型)
     - [五种句型](#五种句型)
@@ -797,6 +797,46 @@ There is a lamp over the desk.
 
 ### 手段介词  
 
+**By**  
+表示行为方式  
+> send something by post  
+> do something by hand  
+> pay by check / by credit card (pay in cash)  
+> 某事发生: by mistake / by accident / by chance (on purpost)
+
+表示交通工具   
+> by car, by train, by plane / air, by boat / sea / ship, by bus   
+> by bicycle / bike, by metro / subway / underground (on foot)  
+> by car (in a car, in my car, in the car)  
+> I don't mind going by car but I don't want to go in your car.   
+
+car, taxi 前用介词 in
+> They didn't come in their car. They came in a taxi.
+
+自行车和公共交通设施前用 on   
+> on the train / by train, on his bicycle / by bicycle  
+
+表示通过某种手段达到预期效果 (与 with 连用)  
+> We succeeded by cooperating with them.   
+> Our mission is to help our clients achieve their business goals by providing a service for the timely delivery of qualified staff to support their operational needs.  
+
+**with**  
+表示用具体的工具做事   
+> I killed a fly with a fly-flap(苍蝇拍).  
+> We can see with our eyes and write with our hands.  
+
+
+**in**  
+表示以某种方式做事  
+> write in pencil / in ink  
+> Expresss this in your own words  
+> Speak in a low voice   
+> Pay in installments (分期付款)  
+
+
+**through**  
+与 by 相近, through 一般多跟名词连用, by 多跟动名词连用  
+> they talked to each other through an interpreter.  
 
 
 ## 动名词
