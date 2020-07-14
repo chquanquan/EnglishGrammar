@@ -4,7 +4,7 @@
 ### Contents
 - [English Grammar](#english-grammar)
     - [Contents](#contents)
-  - [## 语法](#h2-id语法-764语法h2)
+  - [## 语法](#h2-id语法-629语法h2)
   - [1.句子成分](#1句子成分)
   - [2.句型](#2句型)
     - [五种句型](#五种句型)
@@ -76,6 +76,7 @@
     - [方位介词](#方位介词)
     - [手段介词](#手段介词)
   - [动名词](#动名词)
+    - [做主语](#做主语)
   - [动词不定式](#动词不定式)
   - [被动语态](#被动语态)
     
@@ -840,5 +841,30 @@ car, taxi 前用介词 in
 
 
 ## 动名词
+
+### 做主语
+直接句首做主语, 谓语动词用单数.  
+> a. Seeing is believing.  
+> b. Rading is like permitting a man to talk a long time, and refusing you the right to answer.  
+> c. Having a successful marrige takes effort and patience, and communication is the key.  
+
+**It is no good doing sht** 句型  
+it 形式主语, 真正主语是 doing sth  
+no 可以替换为: any / some good, any / some / no use, a waste of time.  
+> a. is it any good trying to explain?  
+> It's not much use my buying salmon if you don't like fihs.  
+> It's simply a waste of time and money seeing that movie.
+
+**there by** 句型  
+1. There is no point (in) doing something 做某事没有意义.  
+> There is no point in my going out to date someone, I might really like if I met him a the time, but who, right now, has no chance of being anything to me but a transitional man.
+
+2. There is no use / good (in) doing something   
+> a. There is no use your arguing with him.  
+> b. There is no use your complaining to me about this.
+
+3. there is no doing something = it's th
+
+
 ## 动词不定式
 ## 被动语态
