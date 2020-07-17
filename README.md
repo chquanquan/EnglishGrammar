@@ -879,7 +879,64 @@ appreciate, avoid, consider, delay, dislike, enjoy, escape, feel like, finish, c
 > Being a bad-tempered man, he would not tolerate having this lectures interrupted.
 
 ### 接动名词和不定式有区别的动词  
+很多动词接动名词和不定式均可, 但是意思有很大差别.   
 
+**demand, deserve, need, require, want**  
+动名词: 主动形式表被动   
+不定式: 必须用被动形式   
+> a. The garden need watering / to be watered. 不说 The garden needs being watered.   
+b. Your hair need cutting / to be cutt.  
+
+**remember, forget, stop, go on, regret**  
+动名词: 表示发生于这些动词之前  
+不定式: 表示发生在这些动词之后  
+
+**remember**  
+remember doing sth: remember / recall something that happened in the past.  记得已做过某事.   
+> a. I still remember being taken to Beijing for the first time.  
+b. I don't remember / recall locking my suitcase. = as for as I know, my suitcase should be open.  
+
+remember to do sth: remember to perform a responsibility, duty or task.  记得需要履行的责任或任务.  
+> a. Remember to go to the post office, won't you?  
+b. Remember to do some shoping after work.  
+c. Clint always remember to turn off the ligths when he leaves the room.   
+
+**forget**   
+forget doing sth: forget something that happen in the past.  忘记了已做过的某事.   
+> I forgot locking the door, So when I came back, I found the door locked.  as far as I know, the door should be open.
+
+forget to do sth: forget to perform a responsibility, duty or task. 忘记要做某事   
+> As well as getting on everybody's nerves, He's got a habit of borrowing money and forgotting to pay it back.
+
+**stop**   
+stop doing: 停下经常做的或手头正在做的事情   
+> I really must stop smoking.   
+
+stop to do: 停下来去做某事.  
+> stop to have a rest.  
+
+**go on**
+go on doing sth: 继续做一直在做的事情.  
+> a. The teacher went on explaining the text.  
+b. Peter went on sleeping depite the noise.   
+
+go on to do sth: 改做另一件事   
+a. He welcomed the new students and then went on to explain the college regulations.   
+b. Finishing the new words, the teacher went on to attack the text.   
+
+**regret**   
+regret doing sth: regret something that happened in the past  对已发生的事情感觉遗憾   
+> a. I don't regret telling her what I thought, even if it upset her.  
+b. I regret letting slip that oppotunity.  
+c. I regret lending him so much money, He never paid me back.   
+d. Now he regrets not having gone to the uniersity.
+
+regret to do sth: regret to say, to tell someone, or to inform someone of some bad news.  遗憾地告诉或通知某人某个坏消息.  
+> a. We regret to inform you that we are unable to offer you employment.  
+b. I regret to tell you that you failed the test.  
+c. We regret to inform you that the flight has been canceled.  
+
+### 动名词的其他结构  
 
 ## 动词不定式
 ## 被动语态
