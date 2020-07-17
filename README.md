@@ -4,7 +4,7 @@
 ### Contents
 - [English Grammar](#english-grammar)
     - [Contents](#contents)
-  - [## 语法](#h2-id语法-629语法h2)
+  - [## 语法](#h2-id语法-174语法h2)
   - [1.句子成分](#1句子成分)
   - [2.句型](#2句型)
     - [五种句型](#五种句型)
@@ -77,6 +77,7 @@
     - [手段介词](#手段介词)
   - [动名词](#动名词)
     - [做主语](#做主语)
+    - [做宾语](#做宾语)
   - [动词不定式](#动词不定式)
   - [被动语态](#被动语态)
     
@@ -855,7 +856,7 @@ no 可以替换为: any / some good, any / some / no use, a waste of time.
 > It's not much use my buying salmon if you don't like fihs.  
 > It's simply a waste of time and money seeing that movie.
 
-**there by** 句型  
+**there be** 句型  
 1. There is no point (in) doing something 做某事没有意义.  
 > There is no point in my going out to date someone, I might really like if I met him a the time, but who, right now, has no chance of being anything to me but a transitional man.
 
@@ -863,7 +864,13 @@ no 可以替换为: any / some good, any / some / no use, a waste of time.
 > a. There is no use your arguing with him.  
 > b. There is no use your complaining to me about this.
 
-3. there is no doing something = it's th
+3. there is no doing something = it's impossible to do something = we can't do something.  
+> a. there is no gainsaying / denying the fact that... 毋庸置疑
+> b. there is no telling what will happen tomorrow.
+> c. there's no knowing the future = it's impossible to know the furture = we can't know it.
+
+
+### 做宾语
 
 
 ## 动词不定式
