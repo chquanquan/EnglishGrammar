@@ -4,7 +4,7 @@
 ### Contents
 - [English Grammar](#english-grammar)
     - [Contents](#contents)
-  - [## 语法](#h2-id语法-174语法h2)
+  - [## 语法](#h2-id语法-488语法h2)
   - [1.句子成分](#1句子成分)
   - [2.句型](#2句型)
     - [五种句型](#五种句型)
@@ -78,6 +78,7 @@
   - [动名词](#动名词)
     - [做主语](#做主语)
     - [做宾语](#做宾语)
+    - [接动名词和不定式有区别的动词](#接动名词和不定式有区别的动词)
   - [动词不定式](#动词不定式)
   - [被动语态](#被动语态)
     
@@ -871,6 +872,13 @@ no 可以替换为: any / some good, any / some / no use, a waste of time.
 
 
 ### 做宾语
+一些动词后只能用动名词做宾语  
+appreciate, avoid, consider, delay, dislike, enjoy, escape, feel like, finish, can't help, involve, overlook, permit, postpone, prectice, risk, can't stand, suggest, torelate, understand.  
+> a. I will overlook your being so rude to my sister this time but don't let is happen again.  
+> b. Many of the things we do involve taking some risk in order to achieve a satisfactory result.  
+> Being a bad-tempered man, he would not tolerate having this lectures interrupted.
+
+### 接动名词和不定式有区别的动词  
 
 
 ## 动词不定式
