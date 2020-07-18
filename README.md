@@ -921,7 +921,7 @@ go on doing sth: 继续做一直在做的事情.
 b. Peter went on sleeping depite the noise.   
 
 go on to do sth: 改做另一件事   
-a. He welcomed the new students and then went on to explain the college regulations.   
+> a. He welcomed the new students and then went on to explain the college regulations.   
 b. Finishing the new words, the teacher went on to attack the text.   
 
 **regret**   
@@ -937,6 +937,61 @@ b. I regret to tell you that you failed the test.
 c. We regret to inform you that the flight has been canceled.  
 
 ### 动名词的其他结构  
+**have dificulty (in) doing sth**  
+------- trouble  
+------- problem  
+------- a lot of fun  
+------- (lots of) pleasure  
+------- a hard time  
+------- a good time  
+------- a dificult time  
+注意: take the trouble to do sth, trouble to do sth, have (no) time to do sth.   
+> a. I worked so late in the office last night that I hardly had time to catch the last bus.  
+b. I have a hard time getting use to living in a big place.  
+
+**can't help doing, can't resist doing, can't keep from doing, can't hold back from doing, can't keep back from doing**   
+注意: can't help but do, can't but do, can't choose but do, etc.  
+No one can help liking Tom; he is such a cute boy.  
+
+**be worth doing** 值得做; 主动形式表被动   
+be worthy of being done 或 be worthy to be done.  
+> a. The book is worth reading.  
+b. The book is worthy of being read.  
+c. The is worthy to be read.  
+
+### 动名词的复合结构   
+   物主代词 (his, my, your等) 所有格名词 (Mary's, Tom's) 与动名词连用, 即构成动名词的符合结构. 用来引出动名词的逻辑主语, 以区别于句子主语.  
+   > Clint insisted on reading the letter. (Clint 看了信)  
+   Clint insisted on my reading the letter. (我不得不看信)  
+   Would you mind telling us the whole story? (你告诉)   
+   Would you mind Tom's telling us the whole story? = Would you mind if Tom tells us the story?  
+   He dislike working late.  
+   He dislike my working late.  
+   I object to making private call on this phone.  
+   I object to his making private call on this phone.  
+
+   #### 用法  
+   做主语或宾语  
+   > a. Tom's coming home a last was a greate consolation. (做主语)  
+   b. Do you mind my making a suggestion? (对及物动词宾语)  
+   c. Our discussion of earthquakes would be incomplete if we didn't raise the possibility of their being caused by external forces.   
+
+   物主代词 (his) 可以改为宾格代词 (him) or 所有格名词 (Tom's) 改成普通格名词 (Tom)  
+   > a. It's no use Tom arguing with his boss.  
+   b. Do you mind me making a suggestion?  
+   c. I am annoyed about John forgetting to pay.  
+
+   应用规则:  
+   1. 若动名词复合结构在句中做主语, 最好用所有格形式.  
+   > a. Tom's refusing to accept the invitation upset me.  
+   b. His refusing to accept the invitation upset me.  
+   c. It was a geate consolation his comeing home at last.  
+
+   2. 动名词复合结构在句中做宾语时候, 用普通枚和所有格均可   
+   > a. Do you mine me making a suggestion?  
+   b. I am annoyed about John forgetting to pay.  
+
+
 
 ## 动词不定式
 ## 被动语态
