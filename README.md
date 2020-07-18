@@ -4,7 +4,7 @@
 ### Contents
 - [English Grammar](#english-grammar)
     - [Contents](#contents)
-  - [## 语法](#h2-id语法-488语法h2)
+  - [语法](#语法)
   - [1.句子成分](#1句子成分)
   - [2.句型](#2句型)
     - [五种句型](#五种句型)
@@ -992,6 +992,147 @@ c. The is worthy to be read.
    b. I am annoyed about John forgetting to pay.  
 
 
-
 ## 动词不定式
+
+### 做主语  
+**It + to do sth** 句型  
+
+1. It + to do sth 句型; it 做形式主语  
+> a. it is easier to spend money than to make money.  
+b. It take time to study English well.  
+
+形式主语 it 不能用 this 或 that 替换  
+> This is impossible for people to stare directly at the sun. 应该用 it.  
+
+2. 不定式置于句首做主语, 谓语动词要用单数.  
+> a. To err is human; to forgive, divine.  
+b. To solve this problem takes a genius like Einstein.  
+c. To love for the sake of being love is human, but to love fo the sake of loving is angelic.  
+
+### 做宾语  
+动词 + **to do**  
+
+1. 直接跟在一个及物动词后面做宾语  
+特点一: 句子的主语和不定式的逻辑主语是一致的, 动作都是由主语发出.  
+特点二: 这时句子谓语动词多是描写态度; 不定式动作则说明行为.  
+> a. I hope to see you again.  
+b. Tihs company refused to cooperate with us.  
+c. He promise not to tell anyone about it.  
+
+接不定式做宾语的动词有: 
+> agree, appear, beg, begin, dare, decide, expect, fail, forget, happen, hate, hesitate, hope, like, love, manage, prefer, prepare, pretend, promise, propose, refuse, regret, remember, seem, swear, try, want, wish
+
+2. 连接词引导宾语从句的简略形式: 动词 + 连接代词 or 连接副词 or 连词 whether + to do  
+> a. I wonder who to invite. = Who I should invite.   
+b. Show us what to do. = What we must do.  
+c. I don't know whether to answer his letter = whether I should answer.   
+
+类似的动词还有: 
+> ask, consider, decide, discover, explain, forget, find out, guess, imagine, know, learn, observe, remember, see, tell, teach, think, understand, wonder   
+
+### 做宾语补足语  
+动词 + **sb to do sth**  
+1. 通常结构: 动词 + sb to do sth  
+> a. They don't allow people to somke in the theater.  
+b. Teh chairman declared the meeting to be over.  
+c. Allow me to drink to your success.  
+d. Allow me to propose a toast to our friendship.  
+e. My mother wishes me to return to China.  
+
+常用动词:
+> advise, allow, ask beg, cause, encourage, expect, forbid, force, get, help, like, order, permit, persuade, remind, teach, tell, want, warn, wish (hope 不可)  
+
+2. 在 let, make, have, see, hear, feel, watch, notice, listen to 等动词后面, 不定式宾语补充语 to 要省略, 改为被动语态, 则必须带 to (详见 "不带 to 的不定式")
+
+### 做定语  
+
+名词 + **to do sth**  
+
+1. 动宾关系  
+被修饰名词在逻辑上做不定式的宾语  
+> a. She has four children to take care of.  
+b. I have no place to live in.  
+c. You just regard me as a thing, an object to look at, to use, to touch, but not to lesten to or to take care seriously.  
+d. I gave the kid a comic to read.  
+e. He need a place to live in.  
+f. I have no partner to speak English with. 
+g. I need a pen to write with.  
+h. I need a piece of paper to write on.  
+
+** 注意 **  
+1. 不定式一般不用被动形式   
+
+2. 不定式动词后面不能再加宾语.  
+> a. ~~I gave the kid a comic to read it.~~   
+b. ~~I need something to eat it~~   
+
+3. 不定式动词后介词不能省略   
+> a. ~~I have no partner to speak Englisth.~~  
+b. ~~I need a pen to write.~~
+
+4. 被 only, last, next, 序数词, 最高级修饰的动名词通常用不定式做定语.  
+> a. I don't think he is the best man to do the job.  
+b. The next train to arrive is from New York.  
+c. Clint is the second person to fall into the trap.  
+d. Clink is the only persion to survive the air crash.  
+
+### 做独立成分  
+修饰整个句子: 
+> to begin with,  
+to tell the truth,  
+to make a long story short,  
+so to speak,  
+to be brief / exact / frank / honest,  
+to say nothing of (姑且不说),  
+to say the least (至少可以这么说)  
+
+> a. To begin with, on behalf of (代表) all of your American guests, I wish to thank you for the imcomparable hospitality.  
+b. I have a point there, to say the least.  
+c. To make a long story short, he is in the hospital now.  
+
+### 做状语  
+做目的状态 or 结果状语  
+
+#### 做目的状语
+> a. hating people is like burning down your own housr to get rid of a rat.  
+b. To avoid critisism, do nothing, say nothing, be nothing.  
+c. To acquire knowledge, one must study; but to acquire wisdom, one must observe.  
+d. We had better start early to catch the train.  
+d. I went to the post office to mail a letter.  
+
+可以用 in order to do 或 so as to do 强调目的状语.  
+> a. We had better to start early so as to catch the train.  
+b. I went to the post office in order to mail the letter.  
+c. I quote others in order to better express my own self.  
+d. The teacher raise her voice in order for us to hear more clearly.
+
+注意: so as to 不放在句首; to do 和 in order to 可以放句首.
+
+#### 做结果状语
+
+1. 直接做结果状语 
+> a. He lived to be a hundred years.  
+b. What have I done to offen you?  
+c. He lived to see second world war. = He lived until he saw world war II  
+
+2. **never to do** 表结果  
+> a. John left his hometown ten years age, never to return.  
+b. We parted never to see each other.  
+
+3. **only to do** 引出意想不到或不愉快的结果  
+> a. We hurried to the railway station, only to find the train had just left.  
+b. All to often, women compain that they're educated as equals, only to go out into the workforce to be treated as inferiors.  
+c. He worked very hard, only to find he had not finished half of the job.  
+
+4. **enough to**
+> a. He is not old enough to go to school.  
+b. The teacher speaks loudly enough to make himself heared clearly.  
+
+5. **too...to** 结构: 太...而不能 
+> a. The box is to heavy for me to even move.  
+b. The tea is too hot to drink.
+
+
+
+
 ## 被动语态
