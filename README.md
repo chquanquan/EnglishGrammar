@@ -1055,7 +1055,7 @@ b. I have no place to live in.
 c. You just regard me as a thing, an object to look at, to use, to touch, but not to lesten to or to take care seriously.  
 d. I gave the kid a comic to read.  
 e. He need a place to live in.  
-f. I have no partner to speak English with. 
+f. I have no partner to speak English with.   
 g. I need a pen to write with.  
 h. I need a piece of paper to write on.  
 
@@ -1132,6 +1132,86 @@ b. The teacher speaks loudly enough to make himself heared clearly.
 > a. The box is to heavy for me to even move.  
 b. The tea is too hot to drink.
 
+### 形容词后的不定式 
+
+1. 句子主语和不定式可以构成逻辑上的主谓关系  
+    这类形容词通常表示人的性格特征或行为表现
+> brave, careful, careless, clever, confiderate, cruel, foolish, generous, kind, modest, nice, polite, rude, selfish, silly, stupid, thoughful.
+
+> a. He was surprised to learn how much he had spent.  
+b. The boy was careless to break the window.  
+
+2. 句子主语和不定式构成逻辑上的动宾关系  
+> a. She is interesting to listen to. = It is interesting to listen to her.  
+b. Relativity theory isn't easy to understand. = It isn't easy to understand relativity theory.  
+c. She is very nice to talk to. = It is very nice to talk to her.  
+d. Mary is easy to get on with = It is easy to get on with Mary.  
+e. English is difficult to speak.  
+f. Football is very interesting to watch.  
+g. Barbara is interesting to listen to because she read a lot.    
+
+动宾关系的情况需要注意:
+> 1. 不定式动词不用被动式 (最容易出错)  
+>> a. ~~English is difficult to be spoken.~~  
+>> b. ~~Football is interesting to be watch.~~  
+
+> 2. 不定式后不加宾语 
+>> a. ~~Football is very interesting to watch it.~~  
+>> b. ~~She is nice to talk to her.~~  
+
+> 3. 不定式动词所带介词不能省略  
+>> a. ~~She is interesting to listen.~~   
+>> b. ~~She is very easy to get on.~~  
+
+
+> It's impossible for fish to live without water.  
+It's necessary for students to do more exercise in learning English.  
+The boy was made to sing the song once again.  
+He couldn't help to bursting into tears after he heard the news.  
+She could not but admit that they were justified in this.  
+They fordade him go go to the park.  
+The first explorer to reach California by land was Strong Smith, a trapper who crossed the southwestern desert of theh United States in 1826.  
+He was the first arrive and the last to leave.  
+The teachers don't knkow what it takes to start and run a school.  
+
+
+### 不带 to 的不定式  
+
+#### 动词和复合宾语 to 省去  
+1. 感觉动词: see, hear, watch, notice, feel, observe 
+2. 使役动词: let make, have 
+> a. The teacher has us write a composition every week.  
+b. I saw a man enter the shop. 
+
+但为被动结构时, 后面需要 + to  
+> a. A man was seen to enter the shop.  
+
+一些短语中 to 省略.  
+> had better,   
+would rather,  
+would sooner,  
+would just a soon,  
+might (just) as well,  
+cannot but,  
+can choose but,  
+cannot help but  
+
+> a. I cannot but admire his courage.  
+b. We might as well put up here for tonight.  
+c. I couldn't help but fall in love with you.  
+
+
+**do nothing / anything / everything but to do** 省略  
+
+> a. I have nothing to do but wait.  
+b. I have no choice but to wait. (but 前没有 do, 则不定式 + to)  
+c. He need nothing but to succeed.  
+d. He will do anything but give in.  
+
+在解释 do 的精确含义的名词从句和定语从句做主语的句子中, be 动词后直接 + do.  
+> e. All that I could do then was wait.  
+f. All you do now is complete this form.  
+h. No mountains to high for you to climb. All you have to do is have some climing faith. No rivers to wide for you to make it across. All you have to do is believe it when you pray.
 
 
 
