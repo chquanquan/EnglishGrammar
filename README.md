@@ -1214,5 +1214,108 @@ f. All you do now is complete this form.
 h. No mountains to high for you to climb. All you have to do is have some climing faith. No rivers to wide for you to make it across. All you have to do is believe it when you pray.
 
 
-
 ## 被动语态
+
+构成: **be** + 过去分词  
+不同时态的被动语态 be 变化.  
+> is, is being, has been, was, was being, had been, will be, will have been.  
+
+### 不用 by 的情况  
+
+1. 实施者明显  
+> a. The rubbish hasn't been collected.  
+b. Your hand will be X-rayed.  
+c. The streets are swept every day. 
+
+2. 实施者未知或没必要提及 
+> a. The president has been murder.  
+b. My car has been moved.  
+c. Rice is grown in many countries.  
+d. The library was built in 1890.  
+
+3. 泛指人们
+acknowledge, assume, believe, claim, consider, estimate, feel, find, know, presume, report, say, think.  
+
+> People believe him to be honest.  
+He is believe to be honest.
+
+4. 主语从句是 one, you, they 通常用被动语态  
+> One / You see this kind of advertisement everywhere.  
+This kind of advertisement is seen everywhere.  
+
+> They are building a new public library in our town.  
+A new public library is being built in our town.  
+
+5. 避免改换主语 (可以接 by 短语) 
+> When he arrived home, a detective arrested him.  
+When he arrived home, he was arrested.
+
+### 不及物动词没有被动语态  
+
+> He came here last night.  
+He looks fine.  
+
+### 双宾语可以有两种被动语态 (人做主语更常见)  
+> Someone give me a gift.
+I was given a gift.
+
+> Someone gave a gift to me.  
+A gift was given to me.  
+
+### 静态被动语态
+
+句子|分析  
+|:--:|:--:|    
+I locked the door two minutes ago. The door was locked by me two minutes ago.|这里的 was locked 强调动作   
+Now the door is locked.|这里的 is locked 只是强调动作, 起着形容词的作用
+
+
+> Clint broke the window last night.  
+The window was broken last night.  
+Now the window is broken.  
+
+常见: interested, excited, satisfied. married, disappointed, scared, frightened, worried, lost.  
+> a. I am interested in grammar.  
+b. I am satisfied with Clint's grammar course.  
+c. She is married to her teacher.  
+d. The table is made of wood.  
+e. Are you scared of snake?  
+
+### get 与被动语态 (get 与过去分词连用)  
+
+#### 可以构成被动语态  
+> a. My watch got broken while I was playing with the children.  
+b. He got caught by the police because he exceeded the limit.  
+
+#### 可以接静态的被动形式, 表示主语的状态  
+> a. I stopped working because I got tired.  
+b. I got worried because he was two hours late.   
+c. She is getting dressed to the party and has trouble deciding what clothes to wear.  
+
+#### have / get sth done  
+have sth done  或者 get sth done  
+
+1. 安排别人把事情做好 (主要用法)  
+> a. Are you going to repair the car yourself?  
+b. No, I am going to have it repaired.  
+
+> c. I want to have / get my items repaired. (My items need repairing.)  
+d. I must get my hair cut. = I want someone to cut my hair.  
+e. You should have / get your bike repaired.  
+f. If you don't get out of my house, I'll have you arrested.  
+
+2. 意外或不行的事情  
+> a. I got my car stolen last year.  
+b. Have you ever had your passport stolen?  
+c. Joe had his leg broken in a fitght.  
+d. It took me two hours to get the washing done.  
+d. Don't get you plans changed.  
+
+
+
+
+
+
+
+
+
