@@ -21,7 +21,7 @@
       - [Do 类](#do-类)
       - [Have 类](#have-类)
     - [情态动词_Modal_Verb](#情态动词_modal_verb)
-  - [名子的变化](#名子的变化)
+  - [4.句子的变化](#4句子的变化)
     - [陈述句否定](#陈述句否定)
       - [谓语动态含有助动词或情态动词](#谓语动态含有助动词或情态动词)
       - [谓语动词是实义动词](#谓语动词是实义动词)
@@ -46,7 +46,7 @@
         - [和形容词 or 副词连用](#和形容词-or-副词连用)
         - [对频率疑问: how often / how many times?](#对频率疑问-how-often--how-many-times)
         - [其他频率短语](#其他频率短语)
-  - [时态](#时态)
+  - [5.时态](#5时态)
     - [一般时态和现在时态](#一般时态和现在时态)
       - [一般现在时](#一般现在时)
       - [一般过去时](#一般过去时)
@@ -64,31 +64,53 @@
         - [不可数名词](#不可数名词)
         - [不可数名词的度量](#不可数名词的度量)
         - [名词所有格](#名词所有格)
-  - [人称代词](#人称代词)
+  - [6.人称代词](#6人称代词)
     - [主格人称代词](#主格人称代词)
     - [宾格人称代词](#宾格人称代词)
     - [物主代词(名词性&形容词性)](#物主代词名词性形容词性)
     - [反身代词](#反身代词)
-  - [介词](#介词)
+  - [7.介词](#7介词)
     - [介词短语](#介词短语)
     - [时间介词](#时间介词)
       - [时间介词短语](#时间介词短语)
     - [方位介词](#方位介词)
     - [手段介词](#手段介词)
-  - [动名词](#动名词)
+  - [8.动名词](#8动名词)
     - [做主语](#做主语)
     - [做宾语](#做宾语)
     - [接动名词和不定式有区别的动词](#接动名词和不定式有区别的动词)
-  - [动词不定式](#动词不定式)
-  - [被动语态](#被动语态)
+    - [动名词的其他结构](#动名词的其他结构)
+    - [动名词的复合结构](#动名词的复合结构)
+      - [用法](#用法)
+  - [9.动词不定式](#9动词不定式)
+    - [做主语](#做主语-1)
+    - [做宾语](#做宾语-1)
+    - [做宾语补足语](#做宾语补足语)
+    - [做定语](#做定语)
+    - [做独立成分](#做独立成分)
+    - [做状语](#做状语)
+      - [做目的状语](#做目的状语)
+      - [做结果状语](#做结果状语)
+    - [形容词后的不定式](#形容词后的不定式)
+    - [不带 to 的不定式](#不带-to-的不定式)
+      - [动词和复合宾语 to 省去](#动词和复合宾语-to-省去)
+  - [10.被动语态](#10被动语态)
+    - [不用 by 的情况](#不用-by-的情况)
+    - [不及物动词没有被动语态](#不及物动词没有被动语态)
+    - [双宾语可以有两种被动语态 (人做主语更常见)](#双宾语可以有两种被动语态-人做主语更常见)
+    - [静态被动语态](#静态被动语态)
+    - [get 与被动语态 (get 与过去分词连用)](#get-与被动语态-get-与过去分词连用)
+      - [可以构成被动语态](#可以构成被动语态)
+      - [可以接静态的被动形式, 表示主语的状态](#可以接静态的被动形式-表示主语的状态)
+      - [have / get sth done](#have--get-sth-done)
     
     
 ## 语法
------
-句子是人类语言的核心构造, 动词是句子的核心. 所以学习英语语法需从句子开始.
-学习语法 --> 分析句子
-分析句子 --> 理清句子成分
-分析句子 --> 理清句子关系
+
+句子是人类语言的核心构造, 动词是句子的核心. 所以学习英语语法需从句子开始.   
+学习语法 --> 分析句子   
+分析句子 --> 理清句子成分   
+分析句子 --> 理清句子关系   
 
 ## 1.句子成分
 1. 主语: 句子所陈述的对象.
@@ -121,10 +143,10 @@
  
 #### 主语 + 系动词 + 主语补足语(表语)   
 > 系动词(Linking Verg)   
-> 作用: 无具体运作, 仅起连接作用   
-> 后面所接成分: 说明主语特点性质特征    
-> 种类: be 动词(`am`, `is`, `are`), `look`, `sound`, `smell`, `tast`, `feel`, `seem`, `appear`, `become`, `turn`. 
-> 表语: 名词 or 形容词
+作用: 无具体运作, 仅起连接作用   
+后面所接成分: 说明主语特点性质特征    
+种类: be 动词(`am`, `is`, `are`), `look`, `sound`, `smell`, `tast`, `feel`, `seem`, `appear`, `become`, `turn`. 
+表语: 名词 or 形容词
 
 #### 主语 + 谓语 (+ 状语)
 > 不及物动词(Intransitive Verb) vi.   
@@ -207,7 +229,7 @@ do| I often do my homework at home|"做"|实义动词, 作谓语
 > 无法独立充当谓语, 必须和实义动词一起构成复合谓语  
 > 常见: `can`, `could`, `may`, `might`, `must`, `shall`, `should`, `will`, `would`, `have to`, `ought to`, `used to`, `need`, `dare`  
 
-## 名子的变化
+## 4.句子的变化
 ### 陈述句否定
 #### 谓语动态含有助动词或情态动词
 > 变形: 助动词或情态动词后 + not   
@@ -327,7 +349,7 @@ I go shopping twice a week. How often do you shopping? / How many times a week d
 
 
 
-## 时态
+## 5.时态
 ### 一般时态和现在时态
 #### 一般现在时
 The present simple tense is used to express a general truth or fact, or an action that occurs or habitually. Generally, the present simple tense verb conveys a sense of permanence.  
@@ -520,7 +542,7 @@ two pounds' weight / a tons' weight / a tons' steel / two dollars's worth of sug
 > 2. 动宾关系
 >> the children's education / the boy's punishment / the discussion of the plan
 
-## 人称代词
+## 6.人称代词
 ### 主格人称代词
 作用: 主语或从句中做主语  
 > She is my daughter.  
@@ -594,7 +616,7 @@ of oneself: 自动地
 > The door open `of` itself. (门自动地开了)
 
 
-## 介词
+## 7.介词
 特点: 不能单独使用, 后面需带宾语(名词, 代词, 数词, 动名词, 动名词短语, 名词从句)  
 搭配: 在介词前的词: 动词(depend on) 名称(pay attention to) 形容词(be kind to)  
 充当: 与其宾语构成介词短语后, 可充当主语, 补足语, 定语, 状语  
@@ -609,7 +631,17 @@ inside, into, onto, out of, outside, throughout, upon, within, without
 as to, from above, from behind, from beneath, from under, until after
 
 ### 介词短语
-at the cost of, at the mercy of, at odds with, by means of, by reason of, by virtue of, by way of, in place of, in favor of,in spite of, with an eye to.  
+> at the cost of,  
+at the mercy of,  
+at odds with,  
+by means of,  
+by reason of,  
+by virtue of,  
+by way of,  
+in place of,  
+in favor of,  
+in spite of,  
+with an eye to.  
 
 关于: in / with reference to, in / with respect to, in / with regard to
 
@@ -716,15 +748,31 @@ During the travel to the south.
 During the middle ages   
 
 **for** + 时间段
-> for six years / for two months / for ever / for two hours  
+> for six years,  
+> for two months,  
+> for ever,  
+> for two hours  
 
 ### 方位介词
 **at, in**  
 **at**(小地方)
-> at home, at the office, at school, at the bridge, at the crossroads, at the bus-stop, at the doctor, at the hairdresser. 
+> at home,  
+> at the office,   
+> at school,  
+> at the bridge,  
+> at the crossroads,  
+> at the bus-stop,  
+> at the doctor,  
+> at the hairdresser. 
 
 **in**(大地方)   
-> in the country, in a town, in a village, in the street, in the forest, in the field, in a desert
+> in the country,  
+> in a town,  
+> in a village,  
+> in the street,  
+> in the forest,  
+> in the field,  
+> in a desert
 
 其他情况(固定搭配)  
 > in a line / in a row / in a queue  
@@ -842,7 +890,7 @@ car, taxi 前用介词 in
 > they talked to each other through an interpreter.  
 
 
-## 动名词
+## 8.动名词
 
 ### 做主语
 直接句首做主语, 谓语动词用单数.  
@@ -992,7 +1040,7 @@ c. The is worthy to be read.
    b. I am annoyed about John forgetting to pay.  
 
 
-## 动词不定式
+## 9.动词不定式
 
 ### 做主语  
 **It + to do sth** 句型  
@@ -1214,7 +1262,7 @@ f. All you do now is complete this form.
 h. No mountains to high for you to climb. All you have to do is have some climing faith. No rivers to wide for you to make it across. All you have to do is believe it when you pray.
 
 
-## 被动语态
+## 10.被动语态
 
 构成: **be** + 过去分词  
 不同时态的被动语态 be 变化.  
