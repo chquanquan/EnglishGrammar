@@ -1199,7 +1199,7 @@ g. Barbara is interesting to listen to because she read a lot.
 
 动宾关系的情况需要注意:
 > 1. 不定式动词不用被动式 (最容易出错)  
->> a. :x:English is difficult to be spoken.:x:  
+>> a. English is difficult to be spoken.:x:  
 >> b. Football is interesting to be watch.:x:  
 
 > 2. 不定式后不加宾语 
@@ -1342,7 +1342,7 @@ c. She is getting dressed to the party and has trouble deciding what clothes to 
 #### have / get sth done  
 have sth done  或者 get sth done  
 
-1. 安排别人把事情做好 (主要用法)  
+:star: 安排别人把事情做好 (主要用法)  
 > a. Are you going to repair the car yourself?  
 b. No, I am going to have it repaired.  
 
@@ -1351,7 +1351,7 @@ d. I must get my hair cut. = I want someone to cut my hair.
 e. You should have / get your bike repaired.  
 f. If you don't get out of my house, I'll have you arrested.  
 
-2. 意外或不行的事情  
+:star: 意外或不行的事情  
 > a. I got my car stolen last year.  
 b. Have you ever had your passport stolen?  
 c. Joe had his leg broken in a fitght.  
