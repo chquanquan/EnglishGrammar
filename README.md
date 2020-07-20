@@ -113,20 +113,19 @@
 分析句子 --> 理清句子关系   
 
 ## 1.句子成分
-1. 主语: 句子所陈述的对象.
-2. 谓语: 主语发出的动作. 一般是有动作意义的动词.
-3. 宾语: 分为动词宾语和介词宾语, 属于动作的承受者.
-4. 系动词: 表示状态或状态变化的动词, 没有实际的动作意义.
-   如:
-      > be 动词 (`am`, `is` , `are`);    
+* 主语: 句子所陈述的对象.
+* 谓语: 主语发出的动作. 一般是有动作意义的动词.
+* 宾语: 分为动词宾语和介词宾语, 属于动作的承受者.
+* 系动词: 表示状态或状态变化的动词, 没有实际的动作意义.  如:  
+    > be 动词 (`am`, `is` , `are`);    
       感官系动词 (`look`, `sound`, `smell`, `taste`, `feel`);    
       保持类系动词 (`keep`, `stay`, `remain`);    
       状态变化类系动词 (`become`, `get`, `turn`, `go`)    
    等.  
-5. 表语: 紧跟系动词后的成份.
-6. 定语: 修饰名词或代词的成份.
-7. 状语: 修饰形容词 / 副词 / 动词 或句子的成分.
-8. 补语: 分为宾语补足语和主语补足语. 是对宾语和主语的补充说明, 与其有主动或被动的逻辑关系.
+* 表语: 紧跟系动词后的成份.
+* 定语: 修饰名词或代词的成份.
+* 状语: 修饰形容词 / 副词 / 动词 或句子的成分.
+* 补语: 分为宾语补足语和主语补足语. 是对宾语和主语的补充说明, 与其有主动或被动的逻辑关系.
 
 ## 2.句型
 名子的基本结构: 主语 + 谓语(名词 + 动词)
@@ -551,7 +550,7 @@ It was he who helped me when I was in trouble.
 
 表示泛指的主格代词  
 one: 任何人, 包括说话人
-> ~~one is knocking at the door.~~ (错误, 句子中 One 逻辑上不会包含说话人, 不符合 one 的规则)  
+> one is knocking at the door. :x: (错误, 句子中 One 逻辑上不会包含说话人, 不符合 one 的规则)  
 Somebody is knocking at the door.  
 One 后面使用的代词, 美国一般用 he, him, himself, his.   
 
@@ -1111,12 +1110,12 @@ h. I need a piece of paper to write on.
 1. 不定式一般不用被动形式   
 
 2. 不定式动词后面不能再加宾语.  
-> a. ~~I gave the kid a comic to read it.~~   
-b. ~~I need something to eat it~~   
+> a. I gave the kid a comic to read it.:x:   
+b. I need something to eat it.:x:   
 
 3. 不定式动词后介词不能省略   
-> a. ~~I have no partner to speak Englisth.~~  
-b. ~~I need a pen to write.~~
+> a. I have no partner to speak Englisth.:x:    
+b. I need a pen to write.:x:
 
 4. 被 only, last, next, 序数词, 最高级修饰的动名词通常用不定式做定语.  
 > a. I don't think he is the best man to do the job.  
@@ -1200,16 +1199,16 @@ g. Barbara is interesting to listen to because she read a lot.
 
 动宾关系的情况需要注意:
 > 1. 不定式动词不用被动式 (最容易出错)  
->> a. ~~English is difficult to be spoken.~~  
->> b. ~~Football is interesting to be watch.~~  
+>> a. :x:English is difficult to be spoken.:x:  
+>> b. Football is interesting to be watch.:x:  
 
 > 2. 不定式后不加宾语 
->> a. ~~Football is very interesting to watch it.~~  
->> b. ~~She is nice to talk to her.~~  
+>> a. Football is very interesting to watch it.:x:     
+>> b. She is nice to talk to her.:x:  
 
 > 3. 不定式动词所带介词不能省略  
->> a. ~~She is interesting to listen.~~   
->> b. ~~She is very easy to get on.~~  
+>> a. She is interesting to listen.:x:   
+>> b. She is very easy to get on.:x:  
 
 
 > It's impossible for fish to live without water.  
@@ -1314,7 +1313,7 @@ A gift was given to me.
 
 句子|分析  
 |:--:|:--:|    
-I locked the door two minutes ago. The door was locked by me two minutes ago.|这里的 was locked 强调动作   
+I locked the door two minutes ago. <br/> The door was locked by me two minutes ago.|这里的 was locked 强调动作   
 Now the door is locked.|这里的 is locked 只是强调动作, 起着形容词的作用
 
 
