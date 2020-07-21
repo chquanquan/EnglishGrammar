@@ -496,403 +496,478 @@ Must|Must not|mustn't
 ### 名词
 
 #### 名词短语(名词与它前面的修饰语)  
-> These red roses are for you.  
-I have three close friend.  
-I really need a new computer.
+        These red roses are for you.  
+        I have three close friend.  
+        I really need a new computer.
 
-1. 功能
-可作: 主语 宾语(介词不能单独使用, 后面所接宾语) 表语
+    1. 功能
+        可作: 主语 宾语(介词不能单独使用, 后面所接宾语) 表语
 
-2. 修饰语
-限定词:泛指, 特指, 定量, 不定量(these / three / a / the / my / that), 冠词(a / an / the)   
-形容词: red / close / new /  best / small
+    2. 修饰语
+      限定词:
+         泛指,
+         特指,
+         定量, 
+         不定量(these, three, a, the, my, that),
+         冠词(a, an, the)   
+         形容词: red, close, new,  best, small
 
-3. 位置  
-限定词在形容词前: 限定词 + 形容词 + 名词, 如: three red roses.
+    3. 位置  
+      限定词在形容词前: 限定词 + 形容词 + 名词, 如: three red roses.
 
 #### 名词可数与不可数
+
 ##### 名词分类
-专有名词: Paris, the united states, Bill gates  
-普通名词  
-> 可数名词
->> 个体名词: student, tree, hospital, house, piano   
->> 集体名词: team, committee, police, group, family
+    * 专有名词: Paris, the united states, Bill gates  
+    * 普通名词  
+        - 可数名词
+            个体名词: student, tree, hospital, house, piano   
+            集体名词: team, committee, police, group, family
 
-> 不可数名词
->> 物质名词: paper, water, cotton, air  
->> 抽象名词: birth happiness, evolution, technology, hope
+        - 不可数名词
+            物质名词: paper, water, cotton, air  
+            抽象名词: birth happiness, evolution, technology, hope
 
-简单名词: story, student, teacher.  
-复合名词: girlfriend roommate, mother-in-law
+    * 简单名词: story, student, teacher.  
+    * 复合名词: girlfriend roommate, mother-in-law
 
 ##### 是否可数的相对性
-例如 paper  
-I need some paper to write a letter. (纸 不可数)  
-I have a term paper to write on weekend. (论文 可数)  
-I bought a paper. (报纸 可数)  
-room (空间 不可数; 房间 可数)
+
+    例如 paper  
+        I need some paper to write a letter. (纸 不可数)  
+        I have a term paper to write on weekend. (论文 可数)  
+        I bought a paper. (报纸 可数)  
+        room (空间 不可数; 房间 可数)
 
 ##### 可数名词与不可数名词比较
-可数名词: 前面可以 + a / an / 数词(two)   
-不可数名词: 不可 + a / an / 数词(two)
+
+    可数名词: 前面可以 + a / an / 数词(two)   
+    不可数名词: 不可 + a / an / 数词(two)
 
 ##### 不可数名词
-1. 物质名词不可数  
-beer, blood, coffee, cream, gasoline, honey, juice, milk, oil, tea, water, wine  
-bread, butter, cheese, ice, ice-cream, meat, beef, chicken, fish, chalk, copper, cotton, glass, gold, iron   
-air, fog, oxygen, smoke.
 
-2. 抽象名词  
-advice, anger, beauty, confidence, fun, happiness, health, honesty, information, love, lunch, peace
+    1. 物质名词不可数  
+        beer, blood, coffee, cream, gasoline, honey, juice, milk, oil, tea, water, wine  
 
-3. 总称名词不可数  
-furniture, fruit, jewelry, luggage, equipment, poetry, machinery 
+        bread, butter, cheese, ice, ice-cream, meat, beef, chicken, fish, chalk, copper, cotton, glass, gold, iron  
+
+        air, fog, oxygen, smoke.
+
+    2. 抽象名词  
+        advice, anger, beauty, confidence, fun, happiness, health, honesty, information, love, lunch, peace
+
+    3. 总称名词不可数  
+        furniture, fruit, jewelry, luggage, equipment, poetry, machinery 
 
 ##### 不可数名词的度量
-1. piece  
-advice, bread, baggage, chalk, equipment, furniture, information jewelry, luggage, music, new.
 
-2. bottle / cup / drop / glass  
-beer, blood, coffee, milk, tea, water, wine
+    1. piece  
+        advice, bread, baggage, chalk, equipment, furniture, information jewelry, luggage, music, new.
 
-3. otherwise  
-a lot of bread / a tube of toothpaste / a pack of cigarette / a slice of meat
+    2. bottle / cup / drop / glass  
+        beer, blood, coffee, milk, tea, water, wine
+
+    3. otherwise  
+        a lot of bread,
+        a tube of toothpaste,
+        a pack of cigarette,
+        a slice of meat
 
 ##### 名词所有格
-1. 单数名词后 + 's
 
-2. 复数名词后 + s' or 复数型名词后 + 's
-> Her friends' money   
-the childrens' Day
+    1. 单数名词后 + 's
 
-3. 复合名词后 + 's
-> My father-in-law's company  
-Everyone else's viewpoints  
-Henry the Eighth's Wives   
-The President of America's cecretary
+    2. 复数名词后 + s' or 复数型名词后 + 's
+        Her friends' money   
+        the childrens' Day
 
-4. and 连接的并列名词: 共有情况: 最后 + 's; 各自所有情况: 每个名词后 + 's
+    3. 复合名词后 + 's
+        My father-in-law's company  
+        Everyone else's viewpoints  
+        Henry the Eighth's Wives   
+        The President of America's cecretary
 
-5. 重量, 度量, 价值   
-two pounds' weight / a tons' weight / a tons' steel / two dollars's worth of sugar
+    4. and 连接的并列名词: 共有情况: 最后 + 's; 各自所有情况: 每个名词后 + 's
 
-6. 省略
-> 1. 前方已出现, 避免重复
->> This bike is mine, not Michael's
-> 2. 表示店铺或教堂(要加 the)
->> at the baker's / at the butcher's / at the chemist's / at the doctor's
-> 3. 人名后面的所有格省去名词表示住宅
->> go to my sister's / I called at my uncle's yesterday.
+    5. 重量, 度量, 价值   
+        two pounds' weight,
+        a tons' weight, 
+        a tons' steel,
+        two dollars's worth of sugar
 
-7. of 所有格的其他关系
-> 1. 主谓关系
->> the visitor's departure / the teacher's request / the growth of agriculture
-> 2. 动宾关系
->> the children's education / the boy's punishment / the discussion of the plan
+    6. 省略
+       * 前方已出现, 避免重复
+            This bike is mine, not Michael's
+        * 表示店铺或教堂(要加 the)
+            at the baker's,
+            at the butcher's,
+            at the chemist's,
+            at the doctor's
+        * 人名后面的所有格省去名词表示住宅
+            go to my sister's,
+            I called at my uncle's yesterday.
+
+    7. of 所有格的其他关系
+        * 主谓关系
+            the visitor's departure,
+            the teacher's request,  
+            the growth of agriculture
+        * 动宾关系
+            the children's education,
+            the boy's punishment,
+            the discussion of the plan
+
 
 ## 6.人称代词
+
 ### 主格人称代词
-作用: 主语或从句中做主语  
-> She is my daughter.  
-It was he who helped me when I was in trouble.  
-顺序: you, he, I; we, you, they(I 总是放在最后)
+    作用: 主语或从句中做主语  
+        She is my daughter.  
+        It was he who helped me when I was in trouble.  
+        顺序: you, he, I; we, you, they(I 总是放在最后)
 
-表示泛指的主格代词  
-one: 任何人, 包括说话人
-> one is knocking at the door. :x: (错误, 句子中 One 逻辑上不会包含说话人, 不符合 one 的规则)  
-Somebody is knocking at the door.  
-One 后面使用的代词, 美国一般用 he, him, himself, his.   
+    表示泛指的主格代词  
+    one: 任何人, 包括说话人
+        one is knocking at the door. :x: (错误, 句子中 One 逻辑上不会包含说话人, 不符合 one 的规则)  
+        Somebody is knocking at the door.  
+    One 后面使用的代词, 美国一般用 he, him, himself, his.   
 
-We / You / They 可以表示泛指: 人们.  
-> They say = People say or It is say  
-They say it is going to be a cold winter.  
+    We / You / They 可以表示泛指: 人们.  
+        hey say = People say or It is say  
+        They say it is going to be a cold winter.  
 
-she(her)的拟人化  
-表示 country, motherland, moon, earth, ship  
-> The ship lost most of her rigging in the storm.  
+    she(her)的拟人化  
+        表示 country, motherland, moon, earth, ship  
+        The ship lost most of her rigging in the storm.  
 
 ### 宾格人称代词
-作用: 做宾语, 也可做表语  
->I like her.  
-Whh is it? It's me.  
-注意: 做表语时, 后面跟定语从句是, 需要用主格人称代词.  
-It was `he` in whom we had the greatest faith. (he 在从句中做介词宾语)  
+    作用: 做宾语, 也可做表语  
+        I like her.  
+        Whh is it? It's me.  
+    注意: 做表语时, 后面跟定语从句是, 需要用主格人称代词.  
+        It was `he` in whom we had the greatest faith. (he 在从句中做介词宾语)  
 
-主格和宾格人称代码可做同位语  
-> `We teachers` should be patient with students.  
-Our teachers are all nice to `us students`.  
+    主格和宾格人称代码可做同位语  
+        `We teachers` should be patient with students.  
+        Our teachers are all nice to `us students`.  
 
-做宾语时的位置  
-直接宾语前: He bought me a pen as birthday gift.   
-直接宾语后: He boutht a pen for me as a birthday gift; I've lent much money to him.  
+    做宾语时的位置  
+        直接宾语前: 
+            He bought me a pen as birthday gift.   
+        直接宾语后: 
+            He boutht a pen for me as a birthday gift; I've lent much money to him.  
 
-若直接宾语是人称代词, 只能置后, 但是不适用于不定代词:  
-> I will give it to you.  
-I'll show you something; I didn't give Rex any.  
+    若直接宾语是人称代词, 只能置后, 但是不适用于不定代词:  
+        I will give it to you.  
+        I'll show you something; I didn't give Rex any.  
 
-在短语动词中间: hand them in; throw it away; pick it up.  
-若是名词, 则中间和后边都可以: hand your papers in = hand in your papers.
+    在短语动词中间: hand them in; throw it away; pick it up.  
+    若是名词, 则中间和后边都可以: hand your papers in = hand in your papers.
+
 
 ### 物主代词(名词性&形容词性)
-作用: 人称代词的所有格式, 表所有关系  
-形容词性:
-> 不能单独使用: Your book is over there; His sister is lovely.  
-表强调时 + own: I wish I had my own house.  
 
-名词性:   
-> 单独使用; 避免重复: This is not my book, Mine(= my book) is in my bag.   
-of + 名词性物主代词: a friend fo mine; a teacher of hers = a teacher of her own.
+    作用: 人称代词的所有格式, 表所有关系  
+
+    形容词性:
+        不能单独使用: Your book is over there; His sister is lovely.  
+        表强调时 + own: I wish I had my own house.  
+
+    名词性:   
+        单独使用; 避免重复: This is not my book, Mine(= my book) is in my bag.   
+        of + 名词性物主代词: a friend fo mine; a teacher of hers = a teacher of her own.
 
 ### 反身代词
-必须主语宾语为同一人时, 做宾语: God helps those who help themselves.  
-强调主语:  
-`He himself` went to visit the old lady. (他亲自去看望那个老太太的)  
-不产生歧义下可置后:  
-> He went to visti the old layd himself.  
-He spoke to the boss himself.(有歧义)  
 
-强调宾语:  反身代词在宾语后   
-> He saw Tom himself. (他看到 Tom 本人)  
-I will send this gift to John himself. (给 John 本人, 不是通过转交)  
+    必须主语宾语为同一人时, 做宾语: God helps those who help themselves.  
 
-介词 + 反身代词   
-by oneself: 独自一人地   
-> I went there by myself. (我自己一个人去了那里)   
-I went there myself. (我亲自去了那里)
+    强调主语:  
+        `He himself` went to visit the old lady. (他亲自去看望那个老太太的)  
 
-of oneself: 自动地  
-> The door open `of` itself. (门自动地开了)
+        不产生歧义下可置后:  
+            He went to visti the old layd himself.  
+            He spoke to the boss himself.(有歧义)  
+
+    强调宾语:  反身代词在宾语后   
+        He saw Tom himself. (他看到 Tom 本人)  
+        I will send this gift to John himself. (给 John 本人, 不是通过转交)  
+
+    介词 + 反身代词   
+        by oneself: 独自一人地   
+            I went there by myself. (我自己一个人去了那里)   
+            I went there myself. (我亲自去了那里)
+
+    of oneself: 自动地  
+        The door open `of` itself. (门自动地开了)
 
 
 ## 7.介词
-特点: 不能单独使用, 后面需带宾语(名词, 代词, 数词, 动名词, 动名词短语, 名词从句)  
-搭配: 在介词前的词: 动词(depend on) 名称(pay attention to) 形容词(be kind to)  
-充当: 与其宾语构成介词短语后, 可充当主语, 补足语, 定语, 状语  
-作用: 词与词之间的表示关系   
-种类:   
-简单介词: at, by, for, from, in, near, of, off, on  
-复合介词:     
-> 简单链接   
-inside, into, onto, out of, outside, throughout, upon, within, without   
+    特点: 不能单独使用, 后面需带宾语(名词, 代词, 数词, 动名词, 动名词短语, 名词从句)  
+    搭配: 在介词前的词: 动词(depend on) 名称(pay attention to) 形容词(be kind to)  
+    充当: 与其宾语构成介词短语后, 可充当主语, 补足语, 定语, 状语  
+    作用: 词与词之间的表示关系  
 
-> 搭配连用   
-as to, from above, from behind, from beneath, from under, until after
+    种类:   
+    简单介词: at, by, for, from, in, near, of, off, on  
+    复合介词:     
+        简单链接   
+            inside, into, onto, out of, outside, throughout, upon, within, without   
+        搭配连用   
+            as to, from above, from behind, from beneath, from under, until after
 
 ### 介词短语
-> at the cost of,  
-at the mercy of,  
-at odds with,  
-by means of,  
-by reason of,  
-by virtue of,  
-by way of,  
-in place of,  
-in favor of,  
-in spite of,  
-with an eye to.  
+    at the cost of,  
+    at the mercy of,  
+    at odds with,  
+    by means of,  
+    by reason of,  
+    by virtue of,  
+    by way of,  
+    in place of,  
+    in favor of,  
+    in spite of,  
+    with an eye to.  
 
-关于: in / with reference to, in / with respect to, in / with regard to
+    关于: in / with reference to, in / with respect to, in / with regard to
 
 ### 时间介词
+
 **at, in , on**
-1. at (时间点)
-> a. 特定时间: at nine after ten  
- 
-> b. 不确定时刻: at night, at dawn, at midnigth, at that time, at the moment, at Christmas  
 
-> c. 年龄段:
->> at the age of eight / at eight  
-He got married at twenty
+    * at (时间点)  
+        - 特定时间: at nine after ten  
+        - 不确定时刻: at night, at dawn, at midnigth, at that time, at the moment, at Christmas  
+        - 年龄段:
+            at the age of eight / at eight  
+            He got married at twenty
+-
 
-2. in (时间段)
-> a. 长时间段  
-in the morning / afternoon / evening  
-in spring / summer / autumn / winter   
-in the past, in the past ten years  
-in the twenty-first century  
-a man in his thirties
+    * in (时间段)
+        - 长时间段  
+            in the morning / afternoon / evening  
+            in spring / summer / autumn / winter   
+            in the past, in the past ten years  
+            in the twenty-first century  
+            a man in his thirties
 
-> b. 在时间之内 / 后, 表将来时  
-He said he would come back in a month.  
-The train is leaving in a minute  
+        - 在时间之内 / 后, 表将来时  
+            He said he would come back in a month.  
+            The train is leaving in a minute  
 
-> c. in + 动名词: 在做...过程中  
-In crossing the river, we caught some fish.  
-In working, we can learn a lot.
+        - in + 动名词: 在做...过程中  
+            In crossing the river, we caught some fish.  
+            In working, we can learn a lot.
 
-> d. 几月: in October
+        - 几月: in October
 
-3. on (表示具体日期)
+-
 
-> a. 具体日期和星期
-On monday, On my birthday
+    * on (表示具体日期)
+        - 具体日期和星期
+            On monday, On my birthday
 
-> b. 特定某天上午或下午等  
-On the night of December 31, 1999.  
-On the eve of Christmas / New Year.  
-On a hot midnight in July.  
+        - 特定某天上午或下午等  
+            On the night of December 31, 1999.  
+            On the eve of Christmas / New Year.  
+            On a hot midnight in July.  
 
-> c. 在第几天
-On his first day to school.  
-On the tenth day I was in Beijing.  
+        - 在第几天
+            On his first day to school.  
+            On the tenth day I was in Beijing.  
 
-> d. on + 动名词 or 名词 = as soon as: 一...就...  
-On hearing the bad news, she burst into tears.  
-On arriving, I came directly to see you.  
-The fist thing I did on arrival of Beijing was visit him.
+        - on + 动名词 or 名词 = as soon as: 一...就...  
+            On hearing the bad news, she burst into tears.  
+            On arriving, I came directly to see you.  
+            The fist thing I did on arrival of Beijing was visit him.
 
-**from**  
-和 to 或 till / until 连用
-> Most people work from nine to five.
+-
 
-**since**  
-和时间点连用, 从那一刻起. 现在完成时, 过去完成时连用
-> He has been here since last Sunday.  
-> I haven't seen him since two years ago.  
-> I haven't seen him for two years.    
-> It's two years since I last saw him.
+    * from 
+        和 to 或 till / until 连用
+            Most people work from nine to five.
 
-**for**  
-和时间段连用, 表示动作延续到说话的那一刻. 现在完成时, 过去完成时连用.
-> I have lived here for a year.  
-> I have lived here since this time last year.
+-
 
-**by**  
-a. no later than: 不迟于某个时间, 到了某个时间
-> by the end of next year
+    * since
+        和时间点连用, 从那一刻起. 现在完成时, 过去完成时连用
+            He has been here since last Sunday.  
+            I haven't seen him since two years ago.  
+            I haven't seen him for two years.    
+            It's two years since I last saw him.
 
-b. by 引导时间状语常与将来完成时 or 过去完成时连用
-> By the end of next year I'll have learned 2000 words.  
-> By the end of last year I had learned 2000 words.
+-
+
+    * for  
+        和时间段连用, 表示动作延续到说话的那一刻. 现在完成时, 过去完成时连用.
+            I have lived here for a year.  
+            I have lived here since this time last year.
+
+-
+
+    * by
+        a. no later than: 不迟于某个时间, 到了某个时间
+            by the end of next year
+
+        b. by 引导时间状语常与将来完成时 or 过去完成时连用
+            By the end of next year I'll have learned 2000 words.  
+            By the end of last year I had learned 2000 words.
+
 
 #### 时间介词短语
+
 **at the beginning of** 在...的开头
-> At the beginning of the book there is often a table of contents.  
-> At the beginning of the content.  
-> At the beginning of January.
+
+    At the beginning of the book there is often a table of contents.  
+    At the beginning of the content.  
+    At the beginning of January.
 
 **in the beginning** at first = in the early stages  
-> In the beginning, I wrote to my family regularly. Later I just gave up.
+
+    In the beginning, I wrote to my family regularly. Later I just gave up.
 
 **at the end of**
-> But at the end of this process, unfortunately, the students are none the wiser.   
-> At the end of a book there maybe an index.   
-> At the end of jaunary.
+
+    But at the end of this process, unfortunately, the students are none the wiser.   
+    At the end of a book there maybe an index.   
+    At the end of jaunary.
 
 **in the end** eventually = at last: 最终
-> Jim couldn't decide where to go for his holiday. He didn't go anywhere in the end.   
-有 last / next / this / every 不再加介词    
-> I'll see your next Friday.
+
+    Jim couldn't decide where to go for his holiday. He didn't go anywhere in the end.   
+
+    有 last / next / this / every 不再加介词    
+    I'll see your next Friday.
 
 **during for**  
-during 在...期间内, 强调这时间内发生了什么 for 表示延续时间的长短  
-> I had lived in the countryside for 8 years before I moved to Beijing.  
-I studied in this university for 4 years. During that time most of my time was spent in learning English.  
-My father was in hospital for six weeks during the summer.  
 
-during 接表示一段时间的名词: stay, visit, travel  
-> During my visit to China.   
-During the travel to the south.  
-During the middle ages   
+    during 在...期间内, 强调这时间内发生了什么 for 表示延续时间的长短  
+        I had lived in the countryside for 8 years before I moved to Beijing.  
+        I studied in this university for 4 years. During that time most of my time was spent in learning English.  
+        My father was in hospital for six weeks during the summer.  
+
+    during 接表示一段时间的名词: stay, visit, travel  
+        During my visit to China.   
+        During the travel to the south.  
+        During the middle ages   
 
 **for** + 时间段
-> for six years,  
-> for two months,  
-> for ever,  
-> for two hours  
+
+    for six years,  
+    for two months,  
+    for ever,  
+    for two hours  
 
 ### 方位介词
+
 **at, in**  
-**at**(小地方)
-> at home,  
-> at the office,   
-> at school,  
-> at the bridge,  
-> at the crossroads,  
-> at the bus-stop,  
-> at the doctor,  
-> at the hairdresser. 
 
-**in**(大地方)   
-> in the country,  
-> in a town,  
-> in a village,  
-> in the street,  
-> in the forest,  
-> in the field,  
-> in a desert
+    * at (小地方)
+        at home,  
+        at the office,   
+        at school,  
+        at the bridge,  
+        at the crossroads,  
+        at the bus-stop,  
+        at the doctor,  
+        at the hairdresser. 
 
-其他情况(固定搭配)  
-> in a line / in a row / in a queue  
-in a photo / in a picture  
-in a mirror  
-in the sky / in the world  
-in the book / in a newspaper / in a magazine / in a letter  
-in the front / back row (at the front / back)  
-in the front / back of the car   
-at the front / back of the building / cinema / classroom  
+-
+
+    * in (大地方)   
+        in the country,  
+        in a town,  
+        in the street,  
+        in the forest,  
+        in the field,  
+        in a desert
+
+-
+
+    其他情况(固定搭配)  
+        in a line / in a row / in a queue  
+        in a photo / in a picture  
+        in a mirror  
+        in the sky / in the world  
+        in the book / in a newspaper / in a magazine / in a letter  
+        in the front / back row (at the front / back)  
+        in the front / back of the car   
+        at the front / back of the building / cinema / classroom  
 
 谈论建筑  
-**at** 表示事情发生的场合  
-> I met him at the cinama last night.  
 
-**in** 表示建议物本身   
-> I enjoyed the film but it was very cold in the cinema.  
+    * at 表示事情发生的场合  
+        I met him at the cinama last night.  
 
-**in** 强调建筑时, **at** 包括建筑物周围及里面  
-> at the restaurant (可以表示餐馆内, 也可以是在餐馆附近的某个地方)  
-in the restaurant (在餐馆内)  
-at the cinema (在电影院, 不一定在里面)  
-in the cinema (在电影院里面)  
-There were a lot of people in the shop, It was very crowed.   
-Go along this road, then turn left at the shop.  
+    * in 表示建议物本身   
+        I enjoyed the film but it was very cold in the cinema.  
+
+    * in 强调建筑时, at 包括建筑物周围及里面  
+        at the restaurant (可以表示餐馆内, 也可以是在餐馆附近的某个地方)  
+        in the restaurant (在餐馆内)  
+        at the cinema (在电影院, 不一定在里面)  
+        in the cinema (在电影院里面)  
+        There were a lot of people in the shop, It was very crowed.   
+        Go along this road, then turn left at the shop.  
+
 
 **on, over, above**  
-**on** 表示两者接触   
-> Put away the books on the desk.  
-> The dictionary on the table is not mine.  
-> There is some water in the bottle.   
-> There is a label on the bottle.  
-> There is sombebody at the door. Shall I go and see who it is?   
-> There is a notice on the door. It says "Do not disturb".  
 
-**on** 的其他情况  
-> on the left / on the right  
-> ont the first / second floor  
-> on a map  
-> on the page / on page seven (at the top / bottom of the page)  
-> on the menu  
-> on the list
-> on a farm  
-> on the way to school  
-> on the corner of street, in the corner of the room  
+    * on 表示两者接触   
+        Put away the books on the desk.  
+        The dictionary on the table is not mine.  
+        There is some water in the bottle.   
+        There is a label on the bottle.  
+        There is sombebody at the door. Shall I go and see who it is?   
+        There is a notice on the door. It says "Do not disturb".  
 
-**over** 不仅接触, 还有覆盖的含义  
-> Spread the cloth over the table.  
-Mon put a rug over me when I was asleep.  
+    on 的其他情况  
+        on the left / on the right  
+        ont the first / second floor  
+        on a map  
+        on the page / on page seven (at the top / bottom of the page)  
+        on the menu  
+        on the list
+        on a farm  
+        on the way to school  
+        on the corner of street, in the corner of the room  
+
+-
+
+    * over 不仅接触, 还有覆盖的含义  
+        Spread the cloth over the table.  
+        Mon put a rug over me when I was asleep.  
 
 
-**over** 还可以表示正上方  
-> There is a bridge over the river.  
-There is a lamp over the desk.
+    over 还可以表示正上方  
+        There is a bridge over the river.  
+        There is a lamp over the desk.
 
-**above** 仅表示上下关系, 不接触, 也不是正上方  
-> The sun rose above the horizon.  
-> There is a bridge above the river.  
-> He is **over me** (He is my immediate superior)  
-> He is **above me**  
+-
+
+    * above 仅表示上下关系, 不接触, 也不是正上方  
+        The sun rose above the horizon.  
+        There is a bridge above the river.  
+        He is `over me` (He is my immediate superior)  
+        He is `above me`  
+
 
 **below, under, beneath**  
-**under** 在下方可接触, 可不接触   
-> I put the money under the mattess (床垫).  
-> The dog is groveling under the table.   
 
-**below** 表示两个表面之前的间隔距离   
-> They live below us.  
+    * under 在下方可接触, 可不接触   
+        I put the money under the mattess (床垫).  
+        The dog is groveling under the table.   
 
-**beneath** 可以替换 **under**, 但是偏向抽象含义  
-> He would think it beneath him to tell a lie.
-> She married beneath her.
+-
+
+    * below 表示两个表面之前的间隔距离   
+        They live below us.  
+
+-
+
+    * beneath 可以替换 under, 但是偏向抽象含义  
+        He would think it beneath him to tell a lie.
+        She married beneath her.
+
 
 ### 手段介词  
 
