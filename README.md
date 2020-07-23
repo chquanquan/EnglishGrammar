@@ -768,7 +768,7 @@ she(her)的拟人化
 
 **at, in , on**
 
-at (时间点)  
+**at** (时间点)  
 
     特定时间: 
         at nine after ten  
@@ -781,7 +781,7 @@ at (时间点)
         He got married at twenty
 
 
-in (时间段)
+**in** (时间段)
 
     长时间段  
         in the morning / afternoon / evening  
@@ -801,7 +801,7 @@ in (时间段)
     几月: in October
 
 
-on (表示具体日期)
+**on** (表示具体日期)
 
     具体日期和星期
         On monday, On my birthday
@@ -820,12 +820,12 @@ on (表示具体日期)
         On arriving, I came directly to see you.  
         The fist thing I did on arrival of Beijing was visit him.
 
- from 
+**from** 
 
         和 to 或 till / until 连用
             Most people work from nine to five.
 
-since
+**since**
 
     和时间点连用, 从那一刻起. 现在完成时, 过去完成时连用
         He has been here since last Sunday.  
@@ -833,13 +833,13 @@ since
         I haven't seen him for two years.    
         It's two years since I last saw him.
 
-for  
+**for**  
 
     和时间段连用, 表示动作延续到说话的那一刻. 现在完成时, 过去完成时连用.
         I have lived here for a year.  
         I have lived here since this time last year.
 
-by
+**by**
 
     a. no later than: 不迟于某个时间, 到了某个时间
         by the end of next year
@@ -899,7 +899,7 @@ during for
 
 **at, in**  
 
-at (小地方)
+**at** (小地方)
 
     at home,  
     at the office,   
@@ -910,7 +910,7 @@ at (小地方)
     at the doctor,  
     at the hairdresser. 
 
-in (大地方)  
+**in** (大地方)  
 
     in the country,  
     in a town,  
@@ -952,7 +952,7 @@ in 强调建筑时, at 包括建筑物周围及里面
 
 **on, over, above**  
 
-on 表示两者接触   
+**on** 表示两者接触   
 
     Put away the books on the desk.  
     The dictionary on the table is not mine.  
@@ -973,18 +973,18 @@ on 的其他情况
     on the way to school  
     on the corner of street, in the corner of the room  
 
-over 不仅接触, 还有覆盖的含义  
+**over** 不仅接触, 还有覆盖的含义  
 
     Spread the cloth over the table.  
     Mon put a rug over me when I was asleep.  
 
 
-over 还可以表示正上方  
+**over** 还可以表示正上方  
 
     There is a bridge over the river.  
     There is a lamp over the desk.
 
-above 仅表示上下关系, 不接触, 也不是正上方  
+**above** 仅表示上下关系, 不接触, 也不是正上方  
 
     The sun rose above the horizon.  
     There is a bridge above the river.  
@@ -1039,13 +1039,13 @@ car, taxi 前用介词 in
     We succeeded by cooperating with them.   
     Our mission is to help our clients achieve their business goals by providing a service for the timely delivery of qualified staff to support their operational needs.  
 
-with  
+**with**  
     表示用具体的工具做事  
 
     I killed a fly with a fly-flap(苍蝇拍).  
     We can see with our eyes and write with our hands.  
 
-in    
+**in**    
     表示以某种方式做事  
 
     write in pencil / in ink  
@@ -1053,7 +1053,7 @@ in
     Speak in a low voice   
     Pay in installments (分期付款)  
 
-through
+**through**
 
     与 by 相近, through 一般多跟名词连用, by 多跟动名词连用  
     they talked to each other through an interpreter.  
@@ -1070,7 +1070,7 @@ through
     b. Rading is like permitting a man to talk a long time, and refusing you the right to answer.  
     c. Having a successful marrige takes effort and patience, and communication is the key.  
 
-It is no good doing sht 句型 
+**It is no good doing sth** 句型 
 
     it 形式主语, 真正主语是 doing sth  
     no 可以替换为: any / some good, any / some / no use, a waste of time.  
@@ -1079,7 +1079,7 @@ It is no good doing sht 句型
     b. It's not much use my buying salmon if you don't like fihs.  
     c. It's simply a waste of time and money seeing that movie.
 
-there be 句型  
+**there be** 句型  
 
     1. There is no point (in) doing something 做某事没有意义.  
         a. There is no point in my going out to date someone, I might really like if I met him a the time, but who, right now, has no chance of being anything to me but a transitional man.
@@ -1181,7 +1181,7 @@ regret to do sth: regret to say, to tell someone, or to inform someone of some b
 
 ### 动名词的其他结构  
 
-    * have dificulty (in) doing sth  
+* have dificulty (in) doing sth  
     ------- trouble  
     ------- problem  
     ------- a lot of fun  
@@ -1191,50 +1191,51 @@ regret to do sth: regret to say, to tell someone, or to inform someone of some b
     ------- a dificult time  
 
     注意: take the trouble to do sth, trouble to do sth, have (no) time to do sth.   
+
         a. I worked so late in the office last night that I hardly had time to catch the last bus.  
         b. I have a hard time getting use to living in a big place.  
 
--
 
-    * can't help doing, can't resist doing, can't keep from doing, can't hold back from doing, can't keep back from doing   
-        注意: can't help but do, can't but do, can't choose but do, etc.  
-            No one can help liking Tom; he is such a cute boy.  
+* can't help doing, can't resist doing, can't keep from doing, can't hold back from doing, can't keep back from doing     
+    注意: can't help but do, can't but do, can't choose but do, etc.  
 
--
+        No one can help liking Tom; he is such a cute boy.  
 
-    * be worth doing 值得做; 主动形式表被动   
-        be worthy of being done 或 be worthy to be done.  
+* be worth doing 值得做; 主动形式表被动   
+    be worthy of being done 或 be worthy to be done.  
+
         a. The book is worth reading.  
         b. The book is worthy of being read.  
         c. The is worthy to be read.  
 
 ### 动名词的复合结构   
 
-    物主代词 (his, my, your等) 所有格名词 (Mary's, Tom's) 与动名词连用, 即构成动名词的符合结构. 用来引出动名词的逻辑主语, 以区别于句子主语. 
+物主代词 (his, my, your等) 所有格名词 (Mary's, Tom's) 与动名词连用, 即构成动名词的符合结构. 用来引出动名词的逻辑主语, 以区别于句子主语. 
 
-        Clint insisted on reading the letter. (Clint 看了信)  
-        Clint insisted on my reading the letter. (我不得不看信)  
-        Would you mind telling us the whole story? (你告诉)   
-        Would you mind Tom's telling us the whole story? = Would you mind if Tom tells us the story?  
-        He dislike working late.  
-        He dislike my working late.  
-        I object to making private call on this phone.  
-        I object to his making private call on this phone.  
+    Clint insisted on reading the letter. (Clint 看了信)  
+    Clint insisted on my reading the letter. (我不得不看信)  
+    Would you mind telling us the whole story? (你告诉)   
+    Would you mind Tom's telling us the whole story? = Would you mind if Tom tells us the story?  
+    He dislike working late.  
+    He dislike my working late.  
+    I object to making private call on this phone.  
+    I object to his making private call on this phone.  
 
--
 
-   #### 用法  
-    做主语或宾语  
-        a. Tom's coming home a last was a greate consolation. (做主语)  
-        b. Do you mind my making a suggestion? (对及物动词宾语)  
-        c. Our discussion of earthquakes would be incomplete if we didn't raise the possibility of their being caused by external forces.   
+#### 用法  
+做主语或宾语  
 
-    物主代词 (his) 可以改为宾格代词 (him) or 所有格名词 (Tom's) 改成普通格名词 (Tom)  
-        a. It's no use Tom arguing with his boss.  
-        b. Do you mind me making a suggestion?  
-        c. I am annoyed about John forgetting to pay.  
+    a. Tom's coming home a last was a greate consolation. (做主语)  
+    b. Do you mind my making a suggestion? (对及物动词宾语)  
+    c. Our discussion of earthquakes would be incomplete if we didn't raise the possibility of their being caused by external forces.   
 
-    应用规则:
+物主代词 (his) 可以改为宾格代词 (him) or 所有格名词 (Tom's) 改成普通格名词 (Tom)  
+
+    a. It's no use Tom arguing with his boss.  
+    b. Do you mind me making a suggestion?  
+    c. I am annoyed about John forgetting to pay.  
+
+应用规则:
 
     1. 若动名词复合结构在句中做主语, 最好用所有格形式.  
         a. Tom's refusing to accept the invitation upset me.  
@@ -1251,42 +1252,46 @@ regret to do sth: regret to say, to tell someone, or to inform someone of some b
 
 ### 做主语
 
-    It + to do sth 句型  
+**It + to do sth** 句型  
 
-    1. It + to do sth 句型; it 做形式主语  
+1. It + to do sth 句型; it 做形式主语  
+   
         a. it is easier to spend money than to make money.  
         b. It take time to study English well.  
 
-    形式主语 it 不能用 this 或 that 替换  
-        This is impossible for people to stare directly at the sun. 应该用 it.  
+        形式主语 it 不能用 this 或 that 替换  
+            This is impossible for people to stare directly at the sun. 应该用 it.  
 
-    2. 不定式置于句首做主语, 谓语动词要用单数.  
+2. 不定式置于句首做主语, 谓语动词要用单数.  
+
         a. To err is human; to forgive, divine.  
         b. To solve this problem takes a genius like Einstein.  
         c. To love for the sake of being love is human, but to love fo the sake of loving is angelic.  
 
 ### 做宾语  
 
-    动词 + to do
+**动词 + to do**
 
-    1. 直接跟在一个及物动词后面做宾语  
+1. 直接跟在一个及物动词后面做宾语  
+
         特点一: 句子的主语和不定式的逻辑主语是一致的, 动作都是由主语发出.  
         特点二: 这时句子谓语动词多是描写态度; 不定式动作则说明行为.  
             a. I hope to see you again.  
             b. Tihs company refused to cooperate with us.  
             c. He promise not to tell anyone about it.  
 
-        接不定式做宾语的动词有: 
+    接不定式做宾语的动词有: 
+
             agree, appear, beg, begin, dare, decide, expect, fail, forget, happen, hate, hesitate, hope, like, love, manage, prefer, prepare, pretend, promise, propose, refuse, regret, remember, seem, swear, try, want, wish
 
-    2. 连接词引导宾语从句的简略形式: 动词 + 连接代词 or 连接副词 or 连词 whether + to do  
-            a. I wonder who to invite. = Who I should invite.   
-            b. Show us what to do. = What we must do.  
-            c. I don't know whether to answer his letter = whether I should answer.   
-
--
+2. 连接词引导宾语从句的简略形式: 动词 + 连接代词 or 连接副词 or 连词 whether + to do
+  
+        a. I wonder who to invite. = Who I should invite.   
+        b. Show us what to do. = What we must do.  
+        c. I don't know whether to answer his letter = whether I should answer.   
 
     类似的动词还有: 
+
         ask, consider, decide, discover, explain, forget, find out, guess, imagine, know, learn, observe, remember, see, tell, teach, think, understand, wonder   
 
 ### 做宾语补足语
@@ -1303,15 +1308,16 @@ regret to do sth: regret to say, to tell someone, or to inform someone of some b
     常用动词:
         advise, allow, ask beg, cause, encourage, expect, forbid, force, get, help, like, order, permit, persuade, remind, teach, tell, want, warn, wish (hope 不可)  
 
-    2. 在 let, make, have, see, hear, feel, watch, notice, listen to 等动词后面, 不定式宾语补充语 to 要省略, 改为被动语态, 则必须带 to (详见 "不带 to 的不定式")
+    1. 在 let, make, have, see, hear, feel, watch, notice, listen to 等动词后面, 不定式宾语补充语 to 要省略, 改为被动语态, 则必须带 to (详见 "不带 to 的不定式")
 
 
 ### 做定语  
 
-    名词 + to do sth
+**名词 + to do sth**
 
-    1. 动宾关系  
-        被修饰名词在逻辑上做不定式的宾语  
+1. 动宾关系  
+被修饰名词在逻辑上做不定式的宾语  
+
         a. She has four children to take care of.  
         b. I have no place to live in.  
         c. You just regard me as a thing, an object to look at, to use, to touch, but not to lesten to or to take care seriously.  
@@ -1321,119 +1327,127 @@ regret to do sth: regret to say, to tell someone, or to inform someone of some b
         g. I need a pen to write with.  
         h. I need a piece of paper to write on.  
 
--
+注意
 
-    注意
-       1. 不定式一般不用被动形式   
+1. 不定式一般不用被动形式   
 
-       2. 不定式动词后面不能再加宾语.  
-            a. I gave the kid a comic to read it.:x:   
-            b. I need something to eat it.:x:   
+2. 不定式动词后面不能再加宾语.  
 
-       3. 不定式动词后介词不能省略   
-            a. I have no partner to speak Englisth.:x:    
-            b. I need a pen to write.:x:
+        a. I gave the kid a comic to read it.:x:   
+        b. I need something to eat it.:x:   
 
-       4. 被 only, last, next, 序数词, 最高级修饰的动名词通常用不定式做定语.  
-            a. I don't think he is the best man to do the job.  
-            b. The next train to arrive is from New York.  
-            c. Clint is the second person to fall into the trap.  
-            d. Clink is the only persion to survive the air crash.  
+3. 不定式动词后介词不能省略   
+
+        a. I have no partner to speak Englisth.:x:    
+        b. I need a pen to write.:x:
+
+5. 被 only, last, next, 序数词, 最高级修饰的动名词通常用不定式做定语.  
+
+        a. I don't think he is the best man to do the job.  
+        b. The next train to arrive is from New York.  
+        c. Clint is the second person to fall into the trap.  
+        d. Clink is the only persion to survive the air crash.  
 
 
 ### 做独立成分  
+修饰整个句子: 
 
-    修饰整个句子: 
-        to begin with,  
-        to tell the truth,  
-        to make a long story short,  
-        so to speak,  
-        to be brief / exact / frank / honest,  
-        to say nothing of (姑且不说),  
-        to say the least (至少可以这么说)  
+    to begin with,  
+    to tell the truth,  
+    to make a long story short,  
+    so to speak,  
+    to be brief / exact / frank / honest,  
+    to say nothing of (姑且不说),  
+    to say the least (至少可以这么说)  
 
-        a. To begin with, on behalf of (代表) all of your American guests, I wish to thank you for the imcomparable hospitality.  
-        b. I have a point there, to say the least.  
-        c. To make a long story short, he is in the hospital now.  
+    a. To begin with, on behalf of (代表) all of your American guests, I wish to thank you for the imcomparable hospitality.  
+    b. I have a point there, to say the least.  
+    c. To make a long story short, he is in the hospital now.  
 
 ### 做状语  
 做目的状态 or 结果状语  
 
-    做目的状语
+* 做目的状语
+
         a. hating people is like burning down your own housr to get rid of a rat.  
         b. To avoid critisism, do nothing, say nothing, be nothing.  
         c. To acquire knowledge, one must study; but to acquire wisdom, one must observe.  
         d. We had better start early to catch the train.  
-        d. I went to the post office to mail a letter.  
+        e. I went to the post office to mail a letter.  
 
-    可以用 in order to do 或 so as to do 强调目的状语.  
+    可以用 in order to do 或 so as to do 强调目的状语. 
+
         a. We had better to start early so as to catch the train.  
         b. I went to the post office in order to mail the letter.  
         c. I quote others in order to better express my own self.  
         d. The teacher raise her voice in order for us to hear more clearly.
 
-    注意: so as to 不放在句首; to do 和 in order to 可以放句首.
+        注意: so as to 不放在句首; to do 和 in order to 可以放句首.
 
--
+* 做结果状语
 
-    做结果状语
+1. 直接做结果状语 
 
-    1. 直接做结果状语 
         a. He lived to be a hundred years.  
         b. What have I done to offen you?  
         c. He lived to see second world war. = He lived until he saw world war II  
 
-    2. never to do 表结果  
+2. never to do 表结果  
+
         a. John left his hometown ten years age, never to return.  
         b. We parted never to see each other.  
 
-    3. only to do 引出意想不到或不愉快的结果  
+3. only to do 引出意想不到或不愉快的结果  
+
         a. We hurried to the railway station, only to find the train had just left.  
         b. All to often, women compain that they're educated as equals, only to go out into the workforce to be treated as inferiors.  
         c. He worked very hard, only to find he had not finished half of the job.  
 
-    4. enough to
+4. enough to
+
         a. He is not old enough to go to school.  
         b. The teacher speaks loudly enough to make himself heared clearly.  
 
-    5. too...to 结构: 太...而不能 
+5. too...to 结构: 太...而不能 
+
         a. The box is to heavy for me to even move.  
         b. The tea is too hot to drink.
 
 
 ### 形容词后的不定式 
 
-    * 句子主语和不定式可以构成逻辑上的主谓关系  
-    这类形容词通常表示人的性格特征或行为表现
-        brave, careful, careless, clever, confiderate, cruel, foolish, generous, kind, modest, nice, polite, rude, selfish, silly, stupid, thoughful.
+句子主语和不定式可以构成逻辑上的主谓关系  
+这类形容词通常表示人的性格特征或行为表现
 
-        a. He was surprised to learn how much he had spent.  
-        b. The boy was careless to break the window.  
+    brave, careful, careless, clever, confiderate, cruel, foolish, generous, kind, modest, nice, polite, rude, selfish, silly, stupid, thoughful.
 
--
+    a. He was surprised to learn how much he had spent.  
+    b. The boy was careless to break the window.  
 
-    * 句子主语和不定式构成逻辑上的动宾关系  
-        a. She is interesting to listen to. = It is interesting to listen to her.  
-        b. Relativity theory isn't easy to understand. = It isn't easy to understand relativity theory.  
-        c. She is very nice to talk to. = It is very nice to talk to her.  
-        d. Mary is easy to get on with = It is easy to get on with Mary.  
-        e. English is difficult to speak.  
-        f. Football is very interesting to watch.  
-        g. Barbara is interesting to listen to because she read a lot.    
+句子主语和不定式构成逻辑上的动宾关系  
 
--
+     a. She is interesting to listen to. = It is interesting to listen to her.  
+    b. Relativity theory isn't easy to understand. = It isn't easy to understand relativity theory.  
+    c. She is very nice to talk to. = It is very nice to talk to her.  
+    d. Mary is easy to get on with = It is easy to get on with Mary.  
+    e. English is difficult to speak.  
+    f. Football is very interesting to watch.  
+    g. Barbara is interesting to listen to because she read a lot.    
 
-    动宾关系的情况需要注意:
+动宾关系的情况需要注意:
 
-    1. 不定式动词不用被动式 (最容易出错)  
+1. 不定式动词不用被动式 (最容易出错)  
+ 
         a. English is difficult to be spoken.:x:  
         b. Football is interesting to be watch.:x:  
 
-    2. 不定式后不加宾语 
+2. 不定式后不加宾语 
+
         a. Football is very interesting to watch it.:x:     
         b. She is nice to talk to her.:x:  
 
-    3. 不定式动词所带介词不能省略  
+3. 不定式动词所带介词不能省略 
+ 
         a. She is interesting to listen.:x:   
         b. She is very easy to get on.:x:  
 
@@ -1452,17 +1466,23 @@ regret to do sth: regret to say, to tell someone, or to inform someone of some b
 
 ### 不带 to 的不定式  
 
-    动词和复合宾语 to 省去  
+动词和复合宾语 to 省去  
 
-    1. 感觉动词: see, hear, watch, notice, feel, observe 
-    2. 使役动词: let make, have 
+1. 感觉动词: 
+
+        see, hear, watch, notice, feel, observe 
+   
+2. 使役动词: let make, have 
+
         a. The teacher has us write a composition every week.  
         b. I saw a man enter the shop. 
 
     但为被动结构时, 后面需要 + to  
+
         a. A man was seen to enter the shop.  
 
     一些短语中 to 省略.  
+
         had better,   
         would rather,  
         would sooner,  
@@ -1476,75 +1496,74 @@ regret to do sth: regret to say, to tell someone, or to inform someone of some b
         b. We might as well put up here for tonight.  
         c. I couldn't help but fall in love with you.  
 
--
+do nothing / anything / everything but to do 省略  
 
-    do nothing / anything / everything but to do 省略  
+    a. I have nothing to do but wait.  
+    b. I have no choice but to wait. (but 前没有 do, 则不定式 + to)  
+    c. He need nothing but to succeed.  
+    d. He will do anything but give in.  
 
-        a. I have nothing to do but wait.  
-        b. I have no choice but to wait. (but 前没有 do, 则不定式 + to)  
-        c. He need nothing but to succeed.  
-        d. He will do anything but give in.  
+在解释 do 的精确含义的名词从句和定语从句做主语的句子中, be 动词后直接 + do.  
 
-    在解释 do 的精确含义的名词从句和定语从句做主语的句子中, be 动词后直接 + do.  
-        e. All that I could do then was wait.  
-        f. All you do now is complete this form.  
-        h. No mountains to high for you to climb. All you have to do is have some climing faith. No rivers to wide for you to make it across. All you have to do is believe it when you pray.
+    e. All that I could do then was wait.  
+    f. All you do now is complete this form.  
+    h. No mountains to high for you to climb. All you have to do is have some climing faith. No rivers to wide for you to make it across. All you have to do is believe it when you pray.
 
 
 ## 10.被动语态
 
-    构成: be + 过去分词  
-    不同时态的被动语态 be 变化.  
-        is, is being, has been, was, was being, had been, will be, will have been.  
+构成: be + 过去分词  
+不同时态的被动语态 be 变化.  
 
--
+    is, is being, has been, was, was being, had been, will be, will have been.  
 
-    不用 by 的情况  
+ 不用 by 的情况  
 
-    1. 实施者明显  
+1. 实施者明显  
+
         a. The rubbish hasn't been collected.  
         b. Your hand will be X-rayed.  
         c. The streets are swept every day. 
 
-    2. 实施者未知或没必要提及 
+2. 实施者未知或没必要提及 
+
         a. The president has been murder.  
         b. My car has been moved.  
         c. Rice is grown in many countries.  
         d. The library was built in 1890.  
 
-    3. 泛指人们
+3. 泛指人们
+
         acknowledge, assume, believe, claim, consider, estimate, feel, find, know, presume, report, say, think.  
 
         People believe him to be honest.  
         He is believe to be honest.
 
-    4. 主语从句是 one, you, they 通常用被动语态  
+4. 主语从句是 one, you, they 通常用被动语态  
+
         One / You see this kind of advertisement everywhere.  
         This kind of advertisement is seen everywhere.  
 
         They are building a new public library in our town.  
         A new public library is being built in our town.  
 
-    5. 避免改换主语 (可以接 by 短语) 
+5. 避免改换主语 (可以接 by 短语) 
+
         When he arrived home, a detective arrested him.  
         When he arrived home, he was arrested.
 
--
+不及物动词没有被动语态  
 
-    不及物动词没有被动语态  
+    He came here last night.  
+    He looks fine.  
 
-        He came here last night.  
-        He looks fine.  
+双宾语可以有两种被动语态 (人做主语更常见)  
 
--
+    Someone give me a gift.
+    I was given a gift.
 
-    双宾语可以有两种被动语态 (人做主语更常见)  
-
-        Someone give me a gift.
-        I was given a gift.
-
-        Someone gave a gift to me.  
-        A gift was given to me.  
+    Someone gave a gift to me.  
+    A gift was given to me.  
 
 
 ### 静态被动语态
@@ -1559,47 +1578,49 @@ Now the door is locked.|这里的 is locked 只是强调动作, 起着形容词�
     The window was broken last night.  
     Now the window is broken. 
 
--     
+常见: interested, excited, satisfied. married, disappointed, scared, frightened, worried, lost. 
 
-    常见: interested, excited, satisfied. married, disappointed, scared, frightened, worried, lost.  
-        a. I am interested in grammar.  
-        b. I am satisfied with Clint's grammar course.  
-        c. She is married to her teacher.  
-        d. The table is made of wood.  
-        e. Are you scared of snake?  
+    a. I am interested in grammar.  
+    b. I am satisfied with Clint's grammar course.  
+    c. She is married to her teacher.  
+    d. The table is made of wood.  
+    e. Are you scared of snake?  
 
 
 ### get 与被动语态 (get 与过去分词连用)  
 
-    * 可以构成被动语态  
+可以构成被动语态  
+
         a. My watch got broken while I was playing with the children.  
         b. He got caught by the police because he exceeded the limit.  
 
-    * 可以接静态的被动形式, 表示主语的状态  
+可以接静态的被动形式, 表示主语的状态  
+
         a. I stopped working because I got tired.  
         b. I got worried because he was two hours late.   
         c. She is getting dressed to the party and has trouble deciding what clothes to wear.  
 
--
 
-    have / get sth done  
-    have sth done  或者 get sth done  
+have / get sth done  
+have sth done  或者 get sth done  
 
-    * 安排别人把事情做好 (主要用法)  
-        a. Are you going to repair the car yourself?  
-        b. No, I am going to have it repaired.  
+安排别人把事情做好 (主要用法)  
 
-        c. I want to have / get my items repaired. (My items need repairing.)  
-        d. I must get my hair cut. = I want someone to cut my hair.  
-        e. You should have / get your bike repaired.  
-        f. If you don't get out of my house, I'll have you arrested.  
+    a. Are you going to repair the car yourself?  
+    b. No, I am going to have it repaired.  
 
-    * 意外或不行的事情  
-        a. I got my car stolen last year.  
-        b. Have you ever had your passport stolen?  
-        c. Joe had his leg broken in a fitght.  
-        d. It took me two hours to get the washing done.  
-        e. Don't get you plans changed.  
+    c. I want to have / get my items repaired. (My items need repairing.)  
+    d. I must get my hair cut. = I want someone to cut my hair.  
+    e. You should have / get your bike repaired.  
+    f. If you don't get out of my house, I'll have you arrested.  
+
+意外或不行的事情  
+
+    a. I got my car stolen last year.  
+    b. Have you ever had your passport stolen?  
+    c. Joe had his leg broken in a fitght.  
+    d. It took me two hours to get the washing done.  
+    e. Don't get you plans changed.  
 
 
 
