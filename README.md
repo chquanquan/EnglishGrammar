@@ -1296,19 +1296,20 @@ regret to do sth: regret to say, to tell someone, or to inform someone of some b
 
 ### 做宾语补足语
 
-    动词 + **sb to do sth**  
+动词 + **sb to do sth**  
 
-    1. 通常结构: 动词 + sb to do sth  
+1. 通常结构: 动词 + sb to do sth 
+ 
         a. They don't allow people to somke in the theater.  
         b. Teh chairman declared the meeting to be over.  
         c. Allow me to drink to your success.  
         d. Allow me to propose a toast to our friendship.  
         e. My mother wishes me to return to China.  
 
-    常用动词:
+        常用动词:
         advise, allow, ask beg, cause, encourage, expect, forbid, force, get, help, like, order, permit, persuade, remind, teach, tell, want, warn, wish (hope 不可)  
 
-    1. 在 let, make, have, see, hear, feel, watch, notice, listen to 等动词后面, 不定式宾语补充语 to 要省略, 改为被动语态, 则必须带 to (详见 "不带 to 的不定式")
+2. 在 let, make, have, see, hear, feel, watch, notice, listen to 等动词后面, 不定式宾语补充语 to 要省略, 改为被动语态, 则必须带 to (详见 "不带 to 的不定式")
 
 
 ### 做定语  
@@ -1589,38 +1590,37 @@ Now the door is locked.|这里的 is locked 只是强调动作, 起着形容词�
 
 ### get 与被动语态 (get 与过去分词连用)  
 
-可以构成被动语态  
+1. 可以构成被动语态  
 
         a. My watch got broken while I was playing with the children.  
         b. He got caught by the police because he exceeded the limit.  
 
-可以接静态的被动形式, 表示主语的状态  
+2. 可以接静态的被动形式, 表示主语的状态  
 
         a. I stopped working because I got tired.  
         b. I got worried because he was two hours late.   
         c. She is getting dressed to the party and has trouble deciding what clothes to wear.  
 
 
-have / get sth done  
 have sth done  或者 get sth done  
 
-安排别人把事情做好 (主要用法)  
+1. 安排别人把事情做好 (主要用法)  
 
-    a. Are you going to repair the car yourself?  
-    b. No, I am going to have it repaired.  
+        a. Are you going to repair the car yourself?  
+        b. No, I am going to have it repaired.  
 
-    c. I want to have / get my items repaired. (My items need repairing.)  
-    d. I must get my hair cut. = I want someone to cut my hair.  
-    e. You should have / get your bike repaired.  
-    f. If you don't get out of my house, I'll have you arrested.  
+        c. I want to have / get my items repaired. (My items need repairing.)  
+        d. I must get my hair cut. = I want someone to cut my hair.  
+        e. You should have / get your bike repaired.  
+        f. If you don't get out of my house, I'll have you arrested.  
 
-意外或不行的事情  
+2. 意外或不行的事情  
 
-    a. I got my car stolen last year.  
-    b. Have you ever had your passport stolen?  
-    c. Joe had his leg broken in a fitght.  
-    d. It took me two hours to get the washing done.  
-    e. Don't get you plans changed.  
+        a. I got my car stolen last year.  
+        b. Have you ever had your passport stolen?  
+        c. Joe had his leg broken in a fitght.  
+        d. It took me two hours to get the washing done.  
+        e. Don't get you plans changed.  
 
 
 
